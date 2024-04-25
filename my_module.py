@@ -102,9 +102,9 @@ def bert_preprocess(text_with_entities):
 
 # Creates a dataframe containing documents from the Drive
 def create_df():
-  data_directory = "ChromatographyData"
+  data_directory = "ChromatographyData" #Replace with local folder path
   
-  link_directory = "links"
+  link_directory = "links" #Replace with local folder path
 
   file_paths = []
   labels = []

@@ -11,7 +11,7 @@ import re
 col1, col2, col3 = st.columns([1, 10, 1]) 
 
 with col2:
-    st.image('finalheading.png', width=500)
+    st.image('finalheading.png', width=500) #Replace with local file path
 
 
 css = """
@@ -48,7 +48,7 @@ df['Text'] = df['Text'].apply(bert_preprocess)
 documents = df.Text
 preprocessed_documents = [preprocess(doc) for doc in documents]
 
-file_path_pickle = "data.pickle"
+file_path_pickle = "data.pickle" #Replace with local file path
 
 with open(file_path_pickle, 'rb') as file:
     final_embeddings = pickle.load(file)

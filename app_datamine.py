@@ -62,7 +62,7 @@ st.header('Filter Chromatography Documents by Query')
 
 labels = len(df)
 
-file_path_pickle = "C:\\Users\\Akshitha\\Downloads\\dictionary.pickle"
+#file_path_pickle = "C:\\Users\\Akshitha\\Downloads\\dictionary.pickle"
 
 if "counter" not in st.session_state:
     st.session_state.counter = 0
@@ -70,8 +70,8 @@ if "counter" not in st.session_state:
 if "keyword_list" not in st.session_state:
     st.session_state.keyword_list = []
 
-with open(file_path_pickle, 'rb') as file:
-    dictionary = pickle.load(file)
+# with open(file_path_pickle, 'rb') as file:
+#     dictionary = pickle.load(file)
 
 # for doc in range(labels):
 #   words = preprocessed_documents[doc]

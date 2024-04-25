@@ -1,0 +1,13 @@
+Title: DNA templated Click Chemistry via 5-vinyl-2′-deoxyuridine and an acridine-tetrazine conjugate induces DNA damage and apoptosis in cancer cells
+
+Abstract: Aims
+                  Click Chemistry is providing valuable tools to biomedical research, but its direct use in therapies remains nearly unexplored. For cancer treatment, nucleoside analogues (NA) such as 5-vinyl-2′-deoxyuridine (VdU) can be metabolically incorporated into cancer cell DNA and subsequently “clicked” to form a toxic product. The inverse electron-demand Diels-Alder (IEDDA) reaction between VdU and an acridine-tetrazine conjugate (PINK) has previously been used to label cell nuclei of cultured cells. Here, we report tandem usage of VdU and PINK to induce cytotoxicity.
+               
+                  Main methods
+                  Cell lines were subsequently treated with VdU and PINK, and cell viability was measured via well confluency and 3D tumor spheroid assays. DNA damage and apoptosis were evaluated using Western Blotting and cell cycle analysis by flow cytometry. Double stranded DNA break (DSB) formation was measured using the comet assay. Apoptosis was assessed by fluorescent detection of externalized phosphatidylserine residues.
+               
+                  Key findings
+                  We report that the combination of VdU and PINK synergistically induces cytotoxicity in cultured human cells. The combination of VdU and PINK strongly reduced cell viability in 2D and 3D cultured cancer cells. Mechanistically, the compounds induced DNA damage through DSB formation, which leads to S-phase accumulation and apoptosis.
+               
+                  Significance
+                  The combination of VdU and PINK represents a novel and promising DNA-templated “click” approach for cancer treatment via selective induction of DNA damage.

@@ -1,0 +1,3 @@
+Title: Production of medical isotope 68Ge based on a novel chromatography separation technique and assembling of 68Ge/68Ga generator
+
+Abstract: A double-column chromatography separation technique was involved for isolation of 68Ge from a bombarded Ga–Ni alloy target. About 185 MBq 68Ge obtained was used for assembling SnO2-based 68Ge/68Ga generator. Approximately 70% of 68Ga in high radioactivity concentration was eluted from generator with excellent radionuclidic, radiochemical and chemical purity. 68Ga was quite adequate for radiolabeling with DOTATATE or PSMA-617 with a high labelling efficiency of >92%. The double-column chromatography technique possessed a potential application prospect of 68Ge/68Ga production, aiding the development of 68Ga in nuclear medicine.

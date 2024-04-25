@@ -1,0 +1,3 @@
+Title: Featurizing chemistry for machine learning — methods and a coded example
+
+Abstract: Chemical data must be encoded for the use in machine-learning algorithms. In this article, we present a selection of featurization methods. Furthermore, we give an insight into the field of application for which individual methods can be used. The introduction to this topic is facilitated by the presentation of a code example. Our goal was to provide a step-by-step tutorial that provides a basic understanding of ML in chemistry. For this purpose, a dataset consisting of partition coefficients for the extraction of dimethoxymethanol from an aqueous system is provided. We could show that the way of featurizing this dataset plays a crucial role for model performance.

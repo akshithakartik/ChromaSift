@@ -1,0 +1,3 @@
+Title: Column chromatography separation of lanthanide(III) bisphthalocyaninate and phthalocyanine ligand
+
+Abstract: During the synthesis of double-decker f-metal phthalocyanine complexes Ln(Pc)2 free phthalocyanine ligands can be also formed, however, routine column chromatography is not effective for their separation. The preliminary reduction of the complexes with hydrazine hydrate affords the low mobile forms, which can be re-oxidized in the chromatography columns after the free ligand is eluted.

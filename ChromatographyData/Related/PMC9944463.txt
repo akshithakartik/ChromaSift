@@ -1,0 +1,3 @@
+Title: Non-Affinity Purification of Antibodies.
+
+Abstract: Currently, purification of antibodies is mainly carried out using a platform technology composed primarily of Protein A chromatography as a capture step, regardless of the scale. However, Protein A chromatography has a number of drawbacks, which are summarized in this review. As an alternative, we propose a simple small-scale purification protocol without Protein A that uses novel agarose native gel electrophoresis and protein extraction. For large-scale antibody purification, we suggest mixed-mode chromatography that can in part mimic the properties of Protein A resin, focusing on 4-Mercapto-ethyl-pyridine (MEP) column chromatography.

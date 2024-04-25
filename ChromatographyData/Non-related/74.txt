@@ -1,0 +1,3 @@
+Title: Wolmershäuser radicals: Chemistry and materials science
+
+Abstract: Chemistry and materials science of stable 1,3,2-benzodi-thiazolyls (Wolmershäuser radicals) are discussed. These easily-accessible chromogenic and redox-active compounds are promising building blocks of conductive and magnetic molecular materials including spin-crossover materials. Their comparison with 1,2,3-isomers (Herz radicals), also involved in contemporary materials science, is given.

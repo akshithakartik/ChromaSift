@@ -1,0 +1,134 @@
+Title: Resolution limits of size exclusion chromatography columns identified from flow reversal and overcome by recycling liquid chromatography to improve the characterization of manufactured monoclonal antibodies
+
+Abstract: The flow reversal (FR) technique consists of reversing the flow direction along a chromatographic column. It is used to reveal the origin (such as poor column packing, active sites, or slow absorption/escape kinetics) for the resolution limit of 4.6 mm × 150 mm long columns packed with 1.7 μm 200 Å Bridge-Ethylene-Hybrid (BEH
+                        
+                           
+                           
+                              T
+                              M
+                           
+                        
+                     ) Particles. These columns are used to separate manufactured monoclonal antibodies (mAb, ∼ 150 kDa) from their close impurities (or IdeS fragments, ∼ 100 kDa) by size exclusion chromatography (SEC). FR unambiguously demonstrates that the resolution limit of these SEC columns is primarily due to long-range flow velocity biases covering distances of at least 500 μm across the column diameter. This confirms the existence of center-to-wall flow heterogeneities which cause undesirable tailing for the mAb peak. Because the transverse dispersion coefficient (
+                        
+                           
+                              D
+                           
+                           
+                              t
+                           
+                        
+                     =1.1 × 10−6 cm2/s) of mAbs across the column diameter is intrinsically low, the bandspreading of the mAb in a single flow direction is in part reversible upon reversing the flow direction. For the very same residence time in the column, the column efficiency is found to increase by +85% relative to that observed under conventional elution mode. The observed peak tailing of the mAb and its sub-units is not caused by active surface sites or by slow absorption/escape from the BEH Particles. Therefore, the most critical mAb impurities (hydrolytic degradation 
+                        
+                           
+                              F
+                           
+                           
+                              a
+                              b
+                              /
+                              c
+                           
+                        
+                      and IdeS 
+                        
+                           
+                              F
+                           
+                           
+                              
+                                 
+                                    (
+                                    a
+                                    
+                                       
+                                          b
+                                       
+                                       
+                                          ′
+                                       
+                                    
+                                    )
+                                 
+                                 
+                                    2
+                                 
+                              
+                           
+                        
+                      fragments) can only be successfully separated and quantified with acceptable accuracy by adopting alternate pumping recycling liquid chromatography (APRLC). APRLC enables the full baseline separation of the mAb and 100 kDa mAb fragments and partial separation of 
+                        
+                           
+                              F
+                           
+                           
+                              a
+                              b
+                              /
+                              c
+                           
+                        
+                      and 
+                        
+                           
+                              F
+                           
+                           
+                              
+                                 
+                                    (
+                                    a
+                                    
+                                       
+                                          b
+                                       
+                                       
+                                          ′
+                                       
+                                    
+                                    )
+                                 
+                                 
+                                    2
+                                 
+                              
+                           
+                        
+                      fragments after increasing the number of cycles to ten. It was made possible to accurately measure the relative abundances of the mAb (99.0 ± 0.1%), 
+                        
+                           
+                              F
+                           
+                           
+                              
+                                 
+                                    (
+                                    a
+                                    
+                                       
+                                          b
+                                       
+                                       
+                                          ′
+                                       
+                                    
+                                    )
+                                 
+                                 
+                                    2
+                                 
+                              
+                           
+                        
+                      fragment (0.88 ± 0.03%), and 
+                        
+                           
+                              F
+                           
+                           
+                              a
+                              b
+                              /
+                              c
+                           
+                        
+                      immunogenic fragment (0.13 ± 0.02%) in less than 45 min for a total mAb sample load of only 5 μg. Still, further improvements are needed to increase the sensitivity of the APRLC method and to reduce the solvent consumption by adopting narrow-bore 2.1 mm i.d. SEC columns.

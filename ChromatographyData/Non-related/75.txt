@@ -1,0 +1,3 @@
+Title: Improving education in electrochemistry via a modeling approach and focusing on green chemistry applications
+
+Abstract: Chemistry is understood by students and practiced by research chemists through models and visualization. Electrochemistry is no exception. This study shows how a modeling approach focusing on green chemistry applications holds great potential in improving electrochemistry education. Green electrosynthesis experiments, for example, allow to largely enhance student's interest and learning in this cross-disciplinary field of chemical knowledge.

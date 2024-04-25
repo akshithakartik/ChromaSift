@@ -1,0 +1,8 @@
+Title: Industrial ion-exchange chromatography development using discontinuous Galerkin methods coupled with forward sensitivity analysis
+
+Abstract: In this work, a discontinuous Galerkin method coupled with forward sensitivity analysis (DG-FSA) is presented. The DG-FSA method is used to reduce computational cost required for model-based ion-exchange chromatography development using industrial load samples. As an example, the design of an anion-exchange chromatography step is considered. This step is used to purify an experimental peptide product called Protein G from Novo Nordisk A/S (Bagsværd, Denmark). The results demonstrate, that a fourth order DG-FSA method can reduce computational cost of inverse problems by a factor 
+                        
+                           ×
+                           16
+                        
+                      compared to a second (low) order DG-FSA method. Furthermore, the fourth-order DG-FSA method enable the computation of probability distributions of optimized processing conditions given uncertainty in model parameters or inputs. This analysis is not possible within a reasonable timeframe when applying the second (low) order DG-FSA method. The design procedure facilitates the optimization of the Protein G purification step. In an experimental validation run, the productivity is increased by 70% while sacrificing 4% yield at a similar purity constraint compared to an experiment with baseline performance.

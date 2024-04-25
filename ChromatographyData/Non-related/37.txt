@@ -1,0 +1,6 @@
+Title: Development of cationic gallium phthalocyanine catalysts for the chemistry of donor-acceptor cyclopropanes and its reactions with aldehydes
+
+Abstract: Cationic gallium phthalocyanine (RPcGa+) catalysts with SbF6
+                     – and Sb2F11
+                     –/Sb3F16
+                     – weakly coordinating anions were developed and used in the catalytic chemistry of donor-acceptor (D–A) cyclopropanes and related substrates. For the first time, these processes were implemented on the examples of [3 + 2]-cycloaddition/annulation reactions of D–A cyclopropanes and styrylmalonates with various aldehydes, as well as some other transformations with different substrates.

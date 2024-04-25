@@ -1,0 +1,3 @@
+Title: Poly[n]catenane from reticular chemistry
+
+Abstract: Poly[n]catenanes exhibit intriguing properties, while their synthesis is the primary challenge to explore their widespread applications. In a recent issue of Nat. Synth., Yaghi and co-workers report the synthesis of a series of three-dimensional [∞]catenane frameworks from reticular chemistry.

@@ -1,0 +1,7 @@
+Title: Deciphering groundwater quality, mechanisms controlling groundwater chemistry in and around Suryapet, Telangana, South India
+
+Abstract: The main objective of the present paper is to determine the groundwater quality in and around Suryapet district, Telangana, and also to define groundwater chemistry mechanisms. For this, groundwater samples from thirty locations were analyzed for physicochemical parameters such as pH, EC, TDS, TH, major cations, and anions. Most of the samples were beyond the World Health Organization (WHO, 2011) maximum permitted levels for drinking. Groundwater is alkaline in nature, very hard. The abundance of the cations and anions is Ca2+>Na+>Mg+>K+; Cl−>HCO3
+                     −> CO3
+                     2−>SO4
+                     2−>NO3
+                     −>F− respectively. The major ion distribution is regulated by cation exchange and silicate weathering processes; Gibbs plots show that the evolution of groundwater geochemistry depends on the interaction of water–rock followed by the evapotranspiration mechanism. Cation-anion exchange and base-exchange reactions play a dominant role. Depending on the factor analysis results, four factors are contributing to 74 percent of groundwater contamination and spatial variation maps decipher nonionic and ionic concentration due to geogenic and anthropogenic activities. This study suggests that contaminated groundwater should be treated before being consumed by humans.

@@ -1,0 +1,13 @@
+Title: Pediatric reference intervals of the hemoglobin fractions HbA2, HbF and HbA0 using high-performance liquid chromatography and capillary electrophoresis
+
+Abstract: Introduction
+                  β-thalassemia is a common genetic disorder with an estimated prevalence of 80–90 million carriers worldwide. As elevated hemoglobin A2 (HbA2) is a primary feature of carriers, hemoglobin fraction analysis is a common technique used for initial screening. However, pediatric reference intervals (RIs) are scarce. Hence, the aim was to establish pediatric RIs of hemoglobin fractions using high-performance liquid chromatography (HPLC) and capillary electrophoresis (CE).
+               
+                  Methods
+                  Samples were collected from assumed healthy children and adolescents of 1–18 years. Analyses were conducted using the Tosoh Automated Glycohemoglobin Analyzer HLC-723®G11 (Tosoh G11, HPLC) and the Capillarys 3 Octa (CE). Data were investigated for need of partitioning by both age (1–6 years vs. 6–18 years) and sex.
+               
+                  Results
+                  In total, 189 and 196 subjects were included in the statistical analysis of HPLC and CE, respectively. The 95% RI of HbA2 was 2.00–2.90% by HPLC and 2.2–3.0% by CE. Partitioning of data was not clinically relevant by HPLC. However, partitioning by age was suggested by CE.
+               
+                  Conclusion
+                  RIs of hemoglobin fractions in individuals of 1–18 years using commercially available HPLC and CE equipment were reported. This is the first report of a pediatric RI of HbA2 using the Tosoh G11.

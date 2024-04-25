@@ -1,0 +1,16 @@
+Title: Understanding a protein fold: The physics, chemistry, and biology of α-helical coiled coils
+
+Abstract: Protein science is being transformed by powerful computational methods for structure prediction and design: AlphaFold2 can predict many natural protein structures from sequence, and other AI methods are enabling the de novo design of new structures. This raises a question: how much do we understand the underlying sequence-to-structure/function relationships being captured by these methods? This perspective presents our current understanding of one class of protein assembly, the α-helical coiled coils. At first sight, these are straightforward: sequence repeats of hydrophobic (
+                        h
+                     ) and polar (
+                        p
+                     ) residues, (
+                     
+                        hpphppp
+                     
+                     )
+                     
+                        n
+                     , direct the folding and assembly of amphipathic α helices into bundles. However, many different bundles are possible: they can have two or more helices (different oligomers); the helices can have parallel, antiparallel, or mixed arrangements (different topologies); and the helical sequences can be the same (homomers) or different (heteromers). Thus, sequence-to-structure relationships must be present within the 
+                        hpphppp
+                      repeats to distinguish these states. I discuss the current understanding of this problem at three levels: first, physics gives a parametric framework to generate the many possible coiled-coil backbone structures. Second, chemistry provides a means to explore and deliver sequence-to-structure relationships. Third, biology shows how coiled coils are adapted and functionalized in nature, inspiring applications of coiled coils in synthetic biology. I argue that the chemistry is largely understood; the physics is partly solved, though the considerable challenge of predicting even relative stabilities of different coiled-coil states remains; but there is much more to explore in the biology and synthetic biology of coiled coils.

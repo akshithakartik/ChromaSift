@@ -1,0 +1,36 @@
+Title: Understanding adsorption behavior of antiviral labyrinthopeptin peptides in anion exchange chromatography
+
+Abstract: Lantipeptides from bacterial sources are increasingly important as biopharmaceuticals because of their broad range of applications. However, the availability of most lantipeptides is low, and systematic approaches for downstream processing of this group of peptides is still lacking. Model-based development for chromatographic separations has proven to be a useful tool for developing reliable purification processes. One important compound of such a model is the adsorption behavior of the components of interest. In ion-exchange chromatography, the adsorption equilibrium between salt and proteins can be described using the steric mass action (SMA) formalism. Beyond, the model parameters may be related to the lanthipeptides physico-chemical properties.
+                  In this study, the antiviral lantipeptides labyrinthopeptin A1 and A2, purified from Actinomadura namibiensis culture broth, were characterized for their adsorption behavior in anion-exchange chromatography in the range from pH 5.0–7.4. The experiments necessary to determine the three SMA parameters were chosen in a way to limit the amount of peptides needed. Linear gradient elution was applied successfully to separate A1 and A2 and to determine the characteristic charge 
+                        
+                           ν
+                           i
+                        
+                      and the equilibrium constant 
+                        
+                           k
+                           
+                              e
+                              
+                                 q
+                                 i
+                              
+                           
+                        
+                     . Batch adsorption experiments using a robotic workstation for high throughput and accuracy provided non-linear adsorption isotherms and the steric factor 
+                        
+                           σ
+                           i
+                        
+                     .
+                  Labyrinthopeptin A1 and A2 show a very different adsorption behavior even though the fundamental structure of the two peptides is similar. 
+                        
+                           k
+                           
+                              e
+                              q
+                           
+                        
+                      of A1 ranging from 0.18 to 0.88 are approximately one order of magnitude smaller than that of A2 ranging from 3.44 to 9.73 indicating the higher affinity of A2 to the stationary phase. At pH 7.0 
+                        σ
+                      was 1.12 and 0.60 for A1 and A2, respectively which was expected based on the molecular weight of the peptides. The characteristic charge for both peptides was also theoretically estimated from the amino acids involved in electrostatic interactions which was in good agreement with experimental data. Thereby, this work provides an useful approach to estimate SMA parameters based on simple structural information that can be applied early in chromatographic ion-exchange process development for peptides and may help adapting the processes for future designed lanthipeptides.

@@ -1,0 +1,3 @@
+Title: 1.11 Organometallic Chemistry of NHCs and Analogues
+
+Abstract: This article describes an overview on the organometallic chemistry of N-heterocyclic carbene ligands and their isovalent analogues with other p-block elements as coordinating atoms. The contents are organized in terms of their major categories, synthetic methods, electronic and steric properties, and representative applications in synthetic organometallic chemistry, catalysis, medicinal chemistry, and materials science.

@@ -1,0 +1,13 @@
+Title: Lack of interference of metronidazole with Roche cobas c502 and c702 chemistry tests
+
+Abstract: Objective
+                  The antibiotic metronidazole has been suggested to absorb light at a wavelength range commonly used in spectrophotometric assays. We sought to determine if any of the spectrophotometric assays used in our core laboratory would be susceptible to clinically significant interference from metronidazole in blood-based patient specimens.
+               
+                  Methods
+                  Following characterization of the absorbance spectrum for metronidazole, spectrophotometric assays involving either main or subtraction wavelengths that might be susceptible to interference from metronidazole were identified. A total of 24 chemistry tests performed on Roche cobas c502 and/or c702 instruments were evaluated for interference from metronidazole. For each assay, two pools of leftover patient serum, plasma, or whole blood specimens containing the analyte of interest at clinically relevant concentrations were prepared. Each pool was spiked with metronidazole at a final concentration of 200 mg/L (1169 µmol/L) or 10 mg/L (58 µmol/L) or the same volume of water as a control, with triplicate samples for each group. The difference in the measured analyte concentration between experimental and control groups was then compared against the total allowable error for each assay to determine whether clinically significant interference had occurred.
+               
+                  Results
+                  There was no significant interference observed with Roche chemistry tests due to the presence of metronidazole.
+               
+                  Conclusion
+                  This study provides reassurance that metronidazole is not interfering with the chemistry assays used in our core laboratory. Interference from metronidazole may be a historical problem and current spectrophotometric assays may not be susceptible due to improvements in assay design.

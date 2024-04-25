@@ -1,0 +1,3 @@
+Title: Chapter 1 An introduction to forensic analytical chemistry
+
+Abstract: In this first chapter, the field of forensic analytical chemistry will be introduced. At first glance, this field is “nothing more” than the application of analytical chemistry methods within a forensic laboratory requiring experts skilled in chemical analysis. However, there is more than meets the eye, by merging concepts, looking at case examples, studying questions of legal interest and introducing forensic principles, it will be shown that forensic analytical chemistry represents a special branch with quite unique ways of working.

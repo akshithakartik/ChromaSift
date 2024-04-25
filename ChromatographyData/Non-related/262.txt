@@ -1,0 +1,3 @@
+Title: Recent advances in chemical fixation of CO2 based on flow chemistry
+
+Abstract: Carbon dioxide (CO2) is an attractive C1 building block in chemical synthesis due to its abundance, availability and sustainability. However, the low reactivity and high stability generally limits its transformations under mild conditions to value added chemicals. Recent advances in flow chemistry provide effective means for the chemical transformation of CO2, and many new methods and techniques that fully utilized the advantages of continuous flow platforms for the chemical fixation of CO2 have been realized. In view of the rapid development and the urgent need for continuous transformation of CO2, herein we wish to present an update of the recent advances in this research area.

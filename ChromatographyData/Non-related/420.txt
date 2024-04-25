@@ -1,0 +1,24 @@
+Title: MARGE — a new ModulAr Robotic Gas-jet targEt system for chemistry studies with homologues of superheavy elements
+
+Abstract: A new ModulAr Robotic Gas-jet targEt (MARGE) system for chemistry studies with homologues of SuperHeavy Elements (SHEs) was designed, constructed, and successfully tested on a beam line at the U-120M accelerator in NPI in Řež, near Prague. The installation of the MARGE system represents an important milestone in research in the field of homologues of SHEs in the Czech Republic. The MARGE system utilizes a robotic target switching mechanism that is remotely controlled from the laboratory. A significant advantage of this functionality is that targets can be switched without personnel having to enter the cyclotron vault, which greatly reduces the radiation exposure of the personnel, as well as prevents long delays due to the necessary cool-down time. The MARGE system is completely modular, allowing for easy upgrades or maintenance. One of the modules houses a new four-pole beam position monitor, which allows for more precise ion beam focusing and on-line diagnostics, when compared with the previous circular one-pole design. The heart of the MARGE system, the Recoil-Transfer Chamber (RTC) module, is designed as a standalone building block with the possibility of stacking multiple RTC modules. In this way, the residual beam exiting the first module can be used to produce radionuclides in a second RTC module, thus enabling the simultaneous collection and transport of atoms recoiling from more than one target foil. The system was tested during two experimental campaigns in spring and autumn of 2021. This included an optimization of the transport yield of prepared radionuclides, and a measurement of the cross sections of the following reactions: 197Au (3He, 6n) 
+                        
+                           
+                           
+                              194m
+                           
+                        
+                     Tl, 165Ho (3He, 5n) 163Tm, 
+                        
+                           
+                           
+                              nat
+                           
+                        
+                     Pd (3He, xn) 104Cd, and 
+                        
+                           
+                           
+                              nat
+                           
+                        
+                     Pd (3He, yn) 105Cd. The transport yield reached during the pilot test was 38 ± 2%. The performance of the system, comprising two stacked RTC modules, was verified during the third campaign in autumn of 2022.

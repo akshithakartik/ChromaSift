@@ -1,0 +1,3 @@
+Title: Click chemistry in polymer science
+
+Abstract: The concept of click chemistry has revolutionized chemical sciences. For polymer science, these high-efficiency coupling reactions are of great importance because they enable coupling of large macromolecules and formation of cyclic polymers, as well as quantitative end-group and side-chain modification. Hence, click chemistry has become an indispensable tool for polymer chemists for the development of functional materials. In this perspective, I will discuss my personal view on the key developments of click chemistry in polymer science focusing on the copper(I) catalyzed azide-alkyne cycloaddition reaction.

@@ -1,0 +1,3 @@
+Title: Synthesis, structure, and host-guest chemistry of a pair of isomeric selenanthrene-bridged molecular cages
+
+Abstract: A pair of selenanthrene-bridged molecular cages have been constructed through a one-step cyclization reaction of a tetrakis(iodo) crown ether with selenium powder. The tubular belt-shaped cage has an intrinsic cavity which can adaptively transform to accommodate electron-deficient guests forming [2]pseudorotaxane complexes. The other product was determined to be an isomeric cage featuring a Möbius strip structure, which exhibits slower twist-migration dynamics than its thianthrene counterpart. The success of using selenanthrene as joints enables an alternative way to structural design and property regulation of molecular cages.

@@ -1,0 +1,3 @@
+Title: Clinical chemistry
+
+Abstract: The function of clinical chemistry in biocompatibility evaluation and toxicology (as well as in human and veterinary medicine) is to provide, via laboratory analysis, evaluations of the qualitative and quantitative characteristics of specific endogenous chemical components associated with normative organ function present in samples of blood, feces, spinal fluid, and tissues. The purpose is to help identify abnormal or pathological changes in organ system functions.

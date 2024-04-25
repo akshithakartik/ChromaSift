@@ -1,0 +1,3 @@
+Title: Appia: Simpler chromatography analysis and visualization.
+
+Abstract: Chromatography is an essential family of assays for molecular biology and chemistry. Typically, only a qualitative assessment of peak height, position, and shape are sufficient to proceed. Additionally, chromatography instrument software is proprietary and often locked to a single computer, making data analysis and sharing difficult. Since each manufacturer reports the data in their own proprietary format, performing analysis of experiments which use multiple instruments or sharing data between labs is also challenging. Here we present Appia, a free, open-source chromatography processing and visualization package focused on making analysis, collaboration, and publication quick and easy.

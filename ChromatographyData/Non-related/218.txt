@@ -1,0 +1,3 @@
+Title: Text mining and computational chemistry reveal trends in applications and applicability of capillary electrophoresis
+
+Abstract: Capillary electrophoresis has matured into a highly sensitive and widely applied analytical method over the last forty years. Here we combine text mining and computational chemistry to paint, with very broad strokes, the applicability and trends in the scientific literature on capillary electrophoresis, simultaneously demonstrating that this is not only possible, but reveal both expected and unexpected details of this history. All software and data are freely available on GitHub (https://github.com/ReinV/SCOPE) and OSF (https://osf.io/e56zt/).

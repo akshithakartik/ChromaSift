@@ -1,0 +1,3 @@
+Title: A high-throughput approach of screening nanoparticles for targeted delivery of mRNA.
+
+Abstract: The ability to specifically and efficiently deliver mRNA to target locations could unlock therapeutic strategies for a range of diseases. Rhym et\xc2\xa0al.&lt;sup&gt;1&lt;/sup&gt; have developed an advanced approach for high-throughput, &lt;i&gt;in\xc2\xa0vivo&lt;/i&gt; screening of tissue-targeting nanoparticle formulations, utilizing peptide barcoding and liquid chromatography with tandem mass spectrometry.

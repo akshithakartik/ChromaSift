@@ -1,0 +1,3 @@
+Title: Chemistry of Fire
+
+Abstract: When investigating the origin and cause of a fire, one relies on knowledge of chemistry, physics, engineering and electricity as well as building construction to determine the area of origin and to identify, if possible, the event that placed a suitable ignition source in contact with the first fuel ignited for a sufficient time to enable ignition to occur. Critical to this ignition event is an understanding, fundamentally, of the chemistry involved and this article briefly discusses these concepts.

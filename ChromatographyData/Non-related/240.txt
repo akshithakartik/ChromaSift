@@ -1,0 +1,3 @@
+Title: Crystal chemistry and ab initio investigations of new hard tetragonal C9 and C12 allotropes with edge- and corner-sharing C4 tetrahedra and diamond-related properties
+
+Abstract: Stable tetragonal C9 and C12 with original topologies have been devised based on crystal chemistry rationale and unconstrained geometry optimization calculations within the density functional theory (DFT). The two new carbon allotropes characterized by corner- and edge-sharing tetrahedra, are mechanically (elastic constants) and dynamically (phonons) stable and exhibit thermal and mechanical properties close to diamond. The electronic band structures show insulating behavior with band gaps close to 5 eV, like diamond.

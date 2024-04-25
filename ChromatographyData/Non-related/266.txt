@@ -1,0 +1,3 @@
+Title: Prediction of the surface chemistry of calcium aluminosilicate glasses
+
+Abstract: We have used a combination of density functional theory, the implicit solvent model COSMO-RS and molecular dynamics simulations to predict the pKa of surface groups on calcium aluminosilicate glasses. We found that the average of pKa for deprotonation and protonation for silanols agrees well with the point of zero charge for pure silica materials. Similarly, the average of pKa for deprotonation and protonation for aluminols agrees well with the point of zero charge for pure alumina. We identified trends in the pKa related to the hydrogen bonding of the surface groups, as well as the influence of tri-briding oxygen defects.

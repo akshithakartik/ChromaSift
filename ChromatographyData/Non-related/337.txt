@@ -1,0 +1,13 @@
+Title: Quality improvement of outpatient clinical chemistry tests through a novel middleware-laboratory information system solution
+
+Abstract: Objectives
+                  Rapid and accurate laboratory tests are essential to support clinical decision-making. Despite the various efforts to control quality in the laboratory, our outpatient chemistry turnaround time (TAT) has deteriorated since 2018. Moreover, these difficulties have accelerated further due to the COVID-19 pandemic. Therefore, we aimed to improve laboratory work efficiency by identifying and eliminating the causes of reduced laboratory work efficiency.
+               
+                  Design & methods
+                  We surveyed to identify tasks that reduce work efficiency. Based on our survey, a new-concept of work assistance middleware linked to laboratory information system (LIS) was developed. The middleware supports test end-time prediction, automatic real-time TAT monitoring, and urgent test requests so that medical technologists can focus on their chemistry tests. The developed middleware was used for 6 months in laboratory and outpatient clinics, and its effectiveness was evaluated.
+               
+                  Results
+                  The median TAT for outpatient chemistry tests was reduced by 6.6 min, from 72.4 min to 65.8 min. And not only did the maximum TAT for the sample decrease from 353 min to 214 min, but the proportion of samples exceeding the TAT target (120 min) also decreased by 77%; from 2.00% in 2010 (1,905 out of 94,989 samples) to 0.46% in 2021 (453 out of 98,117 samples). 2,199 samples were urgently requested through middleware, and they were processed about 15% faster than other samples, effectively performing urgent tests. The test end-time prediction showed an error of 8.6 min in the evaluation using the MAE (Mean Absolute Error) index.
+               
+                  Conclusions
+                  Through this study, the quality and efficiency of the laboratory were improved, and while reducing the workload of medical staff, it contributed to enhancing patient safety and satisfaction.

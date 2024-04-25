@@ -1,0 +1,12 @@
+Title: Development of a novel Ultra Performance Liquid Chromatography Tandem-Mass Spectrometry (UPLC-MS/MS) method to measure l-arginine metabolites in plasma
+
+Abstract: Introduction
+                  Arginine metabolism is involved in the regulation of several biological processes. Many liquid chromatography tandem-mass spectrometry methods for the determination of arginine and its metabolites have been developed but they are time consuming and imply long pre-analytical procedures. The purpose of this study was to develop a rapid method for the simultaneous determination of arginine, citrulline, ornithine, symmetric and asymmetric dimethylarginine and monomethylarginine in human plasma.
+               
+                  Materials and methods
+                  The pre-analytical procedure consisted in a simple deproteinization. The chromatographic separation was performed using hydrophilic interaction liquid chromatography. Analytes detection was performed with a triple quadrupole equipped with electrospray ion source operating in positive ion mode. Mass spectrometry experiments were conducted in multiple reaction monitoring mode.
+               
+                  Results and conclusions
+                  Recovery ranged from 92.2 to 108.0%. The within-run imprecision and between-run imprecision ranged from 1.5 to 6.8 % and 3.8 to 11.9%, respectively.
+                  Carry over and matrix effect did not affect quantitative analysis. Extraction recovery was between 95 and 105 %. Stability after pre-analytical procedure was tested and all the metabolites were stable after 48 h at 4 °C.
+                  In conclusion, our novel method allow a rapid and easy determination of arginine and its metabolites both for research and clinical routine use.

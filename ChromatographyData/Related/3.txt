@@ -1,0 +1,10 @@
+Title: Ion chromatography and ion chromatography / mass spectrometry as a complementary analysis technique for amino acid analysis in food, a review
+
+Abstract: Background
+                  Amino acids are the building blocks of life. Nine of the 20 common amino acids need to be consumed from food, as they are not created within the body. Current amino acid analyser methodology requires either derivatisation which can be problematic or use of a mass spectrometer which can be costly.
+               
+                  Scope and Approach
+                  This review presents the contemporary knowledge of amino acid analysis in food by Ion Chromatography as reported recently (last 20 years). This review covers all aspects of sample types, hydrolysis methods, extraction techniques and comparisons to more conventional methodology. Chromatography methods and detector waveforms are also presented, so that between method comparisons can be achieved. Similarities and differences between these methods are discussed.
+               
+                  Key Findings and Conclusions
+                  Most sample extraction, chromatography and waveform methodology used for ion chromatography amino acid analysis can be drawn back to a foundational paper published in 2002. Neutralisation and rehydration methodology in contrast, differs from paper to paper. No literature was found on ion chromatography / mass spectrometry for amino acid analysis in food, which allows for a vast avenue of future directions to be explored using this evolving technique.

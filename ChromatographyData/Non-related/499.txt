@@ -1,0 +1,3 @@
+Title: 4.05 Cyclopentadienyl and phospholyl compounds in organometallic actinide chemistry
+
+Abstract: Ligands containing π-systems are common throughout main group and transition metal chemistry; but have also found significant use in the organometallic chemistry of the f-block elements. Due to the high degree of coordinative saturation, the cyclopentadienyl and phospholyl ligand sets are ideal for the stabilization of compounds containing f-block elements. Cyclopentadienyl and its substituted derivatives have contributed greatly to the overall development of the discipline, with the steric and electronic modularity of the ligand offering great insight into both structure and reactivity.

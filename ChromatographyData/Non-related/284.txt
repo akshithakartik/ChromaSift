@@ -1,0 +1,3 @@
+Title: Topology-guided roadmap for reticular chemistry of metal-organic polyhedra
+
+Abstract: In this perspective, we have uncovered that reticular chemistry—responsible for phenomenal success in metal-organic frameworks—can be extended to Zr-based metal-organic polyhedra (MOPs), a new porous platform emerging from metal-organic materials. Guided by the combination of organic ligands and anion clusters selected for MOP assembly, we can narrow down possible choices for topologies of MOPs packed in the solid state. The reticular topology table presented here will accelerate the discovery of new functional Zr-based MOPs, bringing a new horizon for reticular chemistry.

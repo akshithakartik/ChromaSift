@@ -1,0 +1,52 @@
+Title: Impact of soil salinity on groundwater chemistry in semi-arid regions in Western India: Insights from major ion and stable isotopic 
+                  
+                     
+                        δ
+                        2
+                     
+                     
+                        H
+                        
+                           
+                              H
+                              2
+                           
+                           o
+                        
+                     
+                     ,
+                     
+                        δ
+                        18
+                     
+                     
+                        o
+                        
+                           
+                              H
+                              2
+                           
+                           o
+                        
+                     
+                     ,
+                     a
+                     n
+                     d
+                     
+                        δ
+                        13
+                     
+                     
+                        C
+                        
+                           D
+                           I
+                           C
+                        
+                     
+                  
+                characteristics.
+
+Abstract: Detailed geochemical and stable isotopic (δDH2O, δ18OH2O, and δ13CDIC) study of groundwater samples (n = 74) from a semi-arid region in Western India was carried out to constrain their solute sources and sub-surface weathering processes. Na+, Cl−, and HCO3
+                     − dominate major ion chemistry. This type of chemistry points to a significant solute supply from the salt-affected soils and bedrock dissolution. The average δ18O and δD in our groundwater samples are similar to their corresponding values in precipitation samples. Spatial variability of the δ18O and δD data depicts the impact of continental effect and variable extent of evaporation in this region. The δ18O-δD cross-plot yields a lower slope (5.2 ± 0.5) than that of the global meteoric water line (∼8), confirming the significant impact of evaporation on groundwater hydrology. δ13CDIC values vary between −7.3‰ and −16.4‰ (average = −9.7‰ ± 1.7‰), and first-order binary mixing calculation shows that about 75 (±16) % of the DIC in these samples are supplied via carbonate dissolution (range: 35–100%). Inverse model calculations involving elemental ratios of major ions show that the solutes are mainly supplied through salt-affected soils (30 ± 22%), with sub-ordinate contributions from rain (31 ± 13%), silicate (23 ± 12%) and carbonate (15 ± 13%). These estimates are consistent with the formation of salt-affected soils via evaporative water loss in semi-arid regions and the faster dissolution kinetics of these soil salts. The outcomes of this study underscore distinctly different compositions of semi-arid groundwater reservoirs, which has implications for drinking and irrigation usage.

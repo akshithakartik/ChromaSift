@@ -1,0 +1,12 @@
+Title: An adaptive HMM method to simulate and forecast ocean chemistry data in aquaculture
+
+Abstract: Due to the multifaceted influences of many factors and complex mechanisms, accurate predictions of ocean chemistry data are difficult to achieve. To address this problem, this paper proposes an adaptive hidden Markov model (AHMM) for predicting ocean chemistry data from aquaculture farms in eastern China. The periodic, trend and residual terms of the original sequence are obtained through Seasonal and Trend decomposition using Loess (STL), which effectively reveals the variation trend of the sequence. For the period and trend terms of the sequence, the autonomous search grasshopper optimization algorithm (ASGOA) is employed to train the parameters of the HMM, which avoids the problems of easily falling into local optima and the dependence on the initial value in the parameter training process. To predict ocean chemistry data, a sequence similarity measurement method is proposed to match similar sequences in the historical interval, and a linear regression equation is constructed for sequence similarity and the difference between the predicted value and the value at the previous time based on the HMM. The results have revealed that the MAE value decreases by 25.5%, MSE value by 45.9%, RMSE value by 27.4%, MAPE value by 39.5% and 
+                        
+                           
+                              R
+                           
+                           
+                              2
+                           
+                        
+                      increases by 6%. Compared with other prediction algorithms under the same conditions, the prediction method proposed in this paper is easily understandable and manages to achieve better prediction performance. This work can serve as a reference for predicting other ocean chemistry data and for the sustainable management of aquaculture ecosystems.

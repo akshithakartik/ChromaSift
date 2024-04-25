@@ -1,0 +1,3 @@
+Title: Chapter 18 Ion chromatography
+
+Abstract: The basic principles and fundamentals of modern ion chromatography are presented with a focus on a key separation mechanism including ion-exchange, ion-exclusion, chelation, and zwitterionic interactions. The role of secondary interactions is reviewed, and a possible mixed-mode retention mechanism is discussed. Most common types of ion chromatographic columns, eluents, and detection modes are briefly discussed together with auxiliary devices designed for eluent generation, transformation, and conductivity suppression and their arrangement for two-dimensional chromatography. The practical applications of ion chromatography for the determination of inorganic and small organic anions and cations are reviewed.

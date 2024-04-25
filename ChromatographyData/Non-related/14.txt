@@ -1,0 +1,6 @@
+Title: Determination of parabens in different samples using green analytical chemistry approaches since 2015
+
+Abstract: Owing to scientific and public concern around health and the environment, “Green”, “Eco”, and “Environment-friendly” practices have been established in different research aspects. It has inspired the analytical chemistry community to improve analytical methods that comply as much as possible with the principles of Green Analytical Chemistry.
+                  Microextraction techniques such as those based on sorbent microextraction and liquid-phase microextraction are explored of great importance since they represent alternatives to classical methods.
+                  Parabens are synthetic chemical preservatives that are widely used in cosmetics, pharmaceuticals, and beverages. These compounds are pronounced as endocrine-disrupting chemicals because of their endocrine activity.
+                  In this review, green chemistry's definition and principles were discussed. In addition, the review summarizes the development of green analytical chemistry with its particular principles and how to make the analytical process more environmentally benign with special attention on recent applications of green analytical chemistry for the determination of parabens in different samples.

@@ -1,0 +1,3 @@
+Title: Gas Chromatography
+
+Abstract: Gas chromatography (GC), along with other chromatographic techniques, is vitally important in forensic science to separate substances of analytical interest. This article explores some of the theory of GC and leads the reader through discussion of separation columns, sample introduction, and detection. A discussion of choice of operating parameters such as pneumatic conditions, and temperature settings is also provided, and some advanced GC approaches are briefly introduced.

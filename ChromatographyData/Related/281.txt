@@ -1,0 +1,13 @@
+Title: Screening and identification of active compounds of GanZhiRong granule based on liquid chromatography–mass spectrometry and biomolecular networks
+
+Abstract: Objective
+                  To investigate the mechanism of GanZhiRong granule(GZR)in the treatment of type 2 diabetes mellitus (T2DM).
+               
+                  Methods
+                  Network pharmacology was used to explore the target and signal pathway of GZR in T2DM. Cell experiments were conducted to observe the inhibitory effects of GZR on oxaloacetic acid on pyruvate glycoisogenesis, triglyceride and glucose release, and the inhibitory effects of GZR on palmitic acid (PA) induced apoptosis of HepG2 cells. The main components in GZR were identified and compared by liquid chromatography-mass spectrometry.
+               
+                  Results
+                  Network pharmacological methods were used to explore the targets and signaling pathways of T2DM treated with GZR, and it was found that CA4, CA7, CA2, AKR1B1 and other targets were closely related to T2DM treated with GZR. Gene Ontology (GO) and Kyoto Encyclopedia Genes and Genomes (KEGG) pathway enrichment analysis indicated that GZR may directly regulate the development of T2DM through lipid atherosclerosis and apoptosis. In vitro results showed that GZR has a certain protective effect on PA-induced damage of HepG2 cells in a dose-dependent manner. In addition, GZR can effectively inhibit the increase of triglyceride and glucose contents in PA-induced HepG2 cells, decrease the contents of pyruvate and oxaloacetic acid, and significantly increase the content of acetyl-coA. The main components were identified and compared. 32 components were identified, including salvianolic acid B, D-hydrothreose, proanthocyanidin, shikimic acid, salvianolic acid A, salvianolic acid C, 7 glycosides of calycoflavone, 3′-methoxy puerarin, 3′-hydroxypuerarin, apigenin-7-o-β-D.
+               
+                  Conclusion
+                  The treatment of T2DM with GZR is related to lipid metabolism and cell apoptosis.

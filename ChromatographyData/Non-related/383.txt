@@ -1,0 +1,25 @@
+Title: DNS Of the ignition process of n-heptane/air premixed combustion with low-temperature chemistry in turbulent boundary layer
+
+Abstract: In the present work, three-dimensional direct numerical simulation (DNS) of 
+                        n
+                     -heptane/air premixed combustion in turbulent boundary layer was performed to explore the near-wall ignition process with low-temperature chemistry. A reduced chemical mechanism with 58 species and 387 elementary reactions for 
+                        n
+                     -heptane combustion was used in the DNS. The general characteristics of the ignition process near the wall were examined. It was found that low-temperature ignition (LTI) dominates the upstream region, and high-temperature ignition (HTI) appears in the downstream region. The ignition process and the low-temperature chemistry pathways of the DNS are compared with those of a corresponding laminar case. It was found that the ignition process was affected by turbulence, which results in thickened reaction zones. However, the carbon flow analysis of low-temperature chemistry showed that turbulence rarely affects the low-temperature chemistry pathway. The combustion modes of various regions were scrutinized based on the budget terms of species transport equations and the chemical explosion mode analysis (CEMA). It was shown that the reaction term of 
+                        
+                           RO
+                           2
+                        
+                      is significant during the LTI process of the upstream region, and the reaction terms of 
+                        
+                           
+                              CH
+                              2
+                           
+                           O
+                        
+                      and 
+                        
+                           CO
+                           2
+                        
+                      are evident in the downstream region, indicating the occurrence of HTI. It was also shown that auto-ignition is dominant in the upstream region. With increasing streamwise distance, the contribution of flame propagation increases, which takes over that of auto-ignition in the near-wall region.

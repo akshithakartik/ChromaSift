@@ -1,0 +1,19 @@
+Title: From physics to chemistry of fresh blended cements
+
+Abstract: Tomorrow's mineral binders are called on to integrate a growing proportion of mineral powders other than Portland clinker. This impacts most properties of industrial interest including fresh state properties, the focus of this paper.
+                  We discuss the physical, physico-chemical and chemical changes that such an evolution in mix design is expected to induce.
+                        
+                           -
+                           Volume-driven effects (physics) control solid fraction, packing properties and strongly relate to particle shape, particle polydispersity and early hydrates morphology.
+                        
+                        
+                           -
+                           Surface-driven effects (physical chemistry) drive interparticle forces and admixtures adsorption, profoundly impacting the rheology by modifying the degree of dispersion.
+                        
+                        
+                           -
+                           Early hydration kinetics (chemistry) leads to hydrate nucleation and growth, which impact the above by modifying the specific surface area, admixture consumption and cohesion forces.
+                        
+                     
+                  
+                  We discuss the above features, their independence and their interplay and extrapolate the critical research questions and needs associated to a full understanding of the fresh properties of blended cements.

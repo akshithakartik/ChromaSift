@@ -1,0 +1,14 @@
+Title: Evaluation of hydrophilic interaction chromatography versus reversed-phase chromatography for fast aqueous species distribution analysis of Nickel(II)-Histidine complex species
+
+Abstract: Nickel (Ni) is a trace heavy metal of importance in biological and environmental systems, with well documented allergy and carcinogenic effects in humans. With Ni(II) as the dominant oxidation state, the elucidation of the coordination mechanisms and labile complex species responsible for its transportation, toxicity, allergy, and bioavailability is key to understanding its biological effects and location in living systems. Histidine (His) is an essential amino acid that contributes to protein structure and activity and in the coordination of Cu(II) and Ni(II) ions. The aqueous low molecular weight Ni(II)-Histidine complex consists primarily of two stepwise complex species Ni(II)(His)1 and Ni(II)(His)2 in the pH range of 4 to 12. Four chromatographic columns, including the superficially porous Poro-shell EC-C18, Halo RP-amide and Poro-shell bare silica-HILIC columns, alongside a Zic-cHILIC fully porous column, were evaluated for the fast separation of the individual Ni(II)-Histidine species. Of these the Zic-cHILIC exhibited high efficiency and selectivity to distinguish between the two stepwise species Ni(II)His1 and Ni(II)His2 as well as free Histidine, with a fast separation within 120 s at a flow rate of 1 ml/min. This HILIC method utilizing the Zic-cHILIC column was initially optimized for the simultaneous analysis of Ni(II)-His-species using UV detection with a mobile phase consisting of 70% ACN and sodium acetate buffer at 
+                        
+                           
+                              
+                              
+                                 w
+                              
+                              w
+                           
+                           pH
+                        
+                      6. Furthermore, the aqueous metal complex species distribution analysis for the low molecular weight Ni(II)-histidine system was chromatographically determined at various metal-ligand ratios and as a function of pH. The identities of Ni(II)His1 and Ni(II)-His2 species were confirmed using HILIC electrospray ionization- mass spectrometry (HILIC-ESI-MS) at negative mode.

@@ -1,0 +1,3 @@
+Title: Tapping into abiological reaction chemistries in biocatalysis
+
+Abstract: Biocatalysis has established itself as a vital tool in the chemical and pharmaceutical industries. However, challenged by the sheer number of chemical reactions available to small-molecule catalysts, the quest to harness biocatalysts for novel transformations has become a veritable hotbed of research. Herein, we discuss previous and actual developments in this area ranging from enzyme discovery for novel function to directed evolution, computational enzyme design, and the construction of artificial (metallo)enzymes, as well as exciting new developments in the field of photobiocatalysis for tapping into abiological reaction chemistries in enzyme catalysis.

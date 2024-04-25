@@ -1,0 +1,3 @@
+Title: 4.12 High pressure chemistry
+
+Abstract: High pressure chemistry—employing pressures from 1 to beyond 100GPa for chemical synthesis in large volume press and laser heated diamond anvil cell devices—has developed into a highly active and broad field. Here we give an overview of recent trends along with a presentation of diverse inorganic compounds produced during the past decade.

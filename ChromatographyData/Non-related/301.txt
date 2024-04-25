@@ -1,0 +1,3 @@
+Title: Heterogeneous flow chemistry through bamboo-based microfluidic reactors
+
+Abstract: The rapid development of flow chemistry and its related microfluid technology has accelerated the innovation in material science and the research into alternative, environmentally, and cost-effective microfabrication procedures. This article reviews the latest advances in bamboo-based microfluidic devices, highlighting the heterogeneous catalysis in flow mode through the three-dimensional (3D) structures of the plant's vascular bundles. Different strategies for immobilizing catalysts (metal and enzymes) and the design of the lignocellulosic-based flow reactor are presented.

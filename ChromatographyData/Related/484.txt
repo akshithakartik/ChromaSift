@@ -1,0 +1,3 @@
+Title: Chiral Gas Chromatography
+
+Abstract: This is an update of C. Morrison, 8.17 Chromatographic Separations and Analysis: Chiral Gas Chromatography, Editor(s): Erick M. Carreira, Hisashi Yamamoto, Comprehensive Chirality, Elsevier, 2012, Pages 333–353, ISBN 9780080951683, https://doi.org/10.1016/B978-0-08-095167-6.00834-X.

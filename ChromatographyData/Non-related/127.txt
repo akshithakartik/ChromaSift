@@ -1,0 +1,3 @@
+Title: Flow chemistry: A green opportunity for organochalcogen chemistry
+
+Abstract: The use of flow technologies is becoming popular among the chemists who are dealing with organochalcogens compounds, especially those who usually work with organoselenium or organosulfur compounds. As a result, a review of the recent literature focused on this specific topic is highly demanded. Examples of the flow synthesis organosulfur and organoselenium compounds will be detailed, highlighting, were possible, the advantages over the batch processes. Particular emphasis is devoted to the preparation of sulfur containing drugs and catalytic reports, in both organoselenium and organosulfur research field.

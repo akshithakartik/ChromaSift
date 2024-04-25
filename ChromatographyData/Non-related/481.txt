@@ -1,0 +1,3 @@
+Title: Precision intercalation chemistry: The next step for battery development?
+
+Abstract: Just because an intercalated atom can squeeze into a host material doesn’t mean the resulting properties are as anticipated or desired—strain and distortion of the host material during intercalation complicates prediction. Here, a recent study by Banerjee and colleagues at Texas A&M University is highlighted, introducing protecting groups that enable specific site-selection for precision intercalation chemistry.

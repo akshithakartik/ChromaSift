@@ -1,0 +1,23 @@
+Title: Coupling of multivariate curve resolution-alternating least squares and mechanistic hard models to investigate antibody purification from human plasma using ion exchange chromatography
+
+Abstract: A two steps proposal for the purification of immunoglobulin G from human blood plasma is investigated. The first step is precipitation using cold ethanol based on the Cohn method with some modification and the second step is a chromatographic separation by DEAE-Sepharose FF resin as a weak anion exchanger. The presence of interferent in the region3 of chromatographic fractions, which is co-eluted with IgG, restricts the application of the mechanistic chromatography model. Therefore, multivariate cure resolution-alternating least squares (MCR-ALS) as a soft method is employed on measured absorbance data matrix from eluted fractions to recover pure concentration and spectral profiles. Besides, possible solutions for resolved concentration and spectral profiles are investigated. The reaction-dispersive model as a mechanistic hard model for the column is utilized for the evaluation of the ion exchange chromatography. Using a genetic algorithm as a global optimization method, mobile phase modulator (MPM) adsorption model parameters such as β, kdes,
+                     
+                     0, and Keq,
+                     
+                     0, were fitted to the concentration profiles from MCR-ALS as 1.96, 2.87
+                        ×
+                     10−4 m3 mol−1 
+                     s
+                     −1, and 1883, respectively. Furthermore, a new resampling incorporated non-parametric statistics is conducted to assess parameters’ uncertainty. Values of 2.00, 1.10
+                        ×
+                     10−3 m3 mol−1 
+                     s
+                     −1, and 549.80 are estimated median, and values of 0.05, 2.5
+                        ×
+                     10−3, and 691.00 are calculated interquartile range (IQR) for β, kdes,
+                     
+                     0, and Keq,
+                     
+                     0, respectively. Finally, results show three and two outliers for β and kdes,
+                     
+                     0, respectively.

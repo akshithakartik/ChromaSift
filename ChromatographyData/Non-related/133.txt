@@ -1,0 +1,10 @@
+Title: Dynamic surface chemistry and interparticle interactions mediating chemically fueled dissipative assembly of colloids
+
+Abstract: Hypothesis
+                  Dissipative assembly of colloids involves using a chemical fuel to temporarily activate organic colloid surface ligands to an assembly prone state. Colloids assemble into transient aggregates that disintegrate after the fuel is consumed. The underlying colloidal interactions controlling dissipative assembly have not been rigorously identified or quantified. We expect that fuel concentration dependent dissipative assembly behavior can be reconciled with measurements of dynamic colloid surface chemistry and colloidal interactions.
+               
+                  Experiments
+                  Carbodiimide chemistry was utilized to induce dissipative assembly of carboxylic acid functionalized polystyrene colloids. We measured aggregation kinetics, colloid surface hydrophobicity, and zeta potential as a function of time, which established that colloids underwent dissipative assembly for fuel concentrations between 5 and 12.5 mM and irreversible aggregation at higher fuel concentrations due to transient changes in surface chemistry.
+               
+                  Findings
+                  We formulated a pairwise colloidal interaction potential model including hydrophobic interactions quantified by fluorescence binding experiments. Fuel concentrations causing dissipative assembly displayed a transient increase in secondary minimum depth and a primary maximum much larger than the thermal potential. Fuel concentrations leading to irreversible aggregation displayed a primary maximum smaller than the thermal potential. This is the first study to quantify surface chemistry and interparticle interactions during dissipative colloid assembly and represents a foundational step in rationally designing more complex dissipative assembly systems.

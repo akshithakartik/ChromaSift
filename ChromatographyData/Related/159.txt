@@ -1,0 +1,22 @@
+Title: Non-destructive method to classify walnut kernel freshness from volatile organic compound (VOC) emissions using gas chromatography-differential mobility spectrometry (GC-DMS) and machine learning analysis
+
+Abstract: Analysis of volatile organic compounds (VOCs) can be an effective strategy to inspect the quality of horticultural commodities and following their degradation. In this work, we report that VOCs emitted by walnuts can be studied using gas chromatography-differential mobility spectrometry (GC-DMS), and those GC-DMS data can be analyzed to predict the rancidity of walnuts, i.e., classify walnuts into grades of freshness. Walnut kernels were assigned a class 
+                        n
+                      depending on their level of freshness as determined by a peroxide assay. VOC samples were analyzed using GC-DMS. From these VOC data, a partial least square regression (PLSR) model provided a freshness prediction value 
+                        m
+                     
+                     , which corresponded to the rancid class 
+                        n
+                      when 
+                        
+                           m
+                           =
+                           
+                           n
+                           ±
+                           0.5
+                        
+                     
+                     . The PLSR model had an accuracy of 80% to predict walnut grade and demonstrated a minimal root mean squared error of 0.42 for the 
+                        m
+                      response variables (representative of walnut grade) with the GC-DMS data. We also conducted gas chromatography-mass spectrometry (GC–MS) experiments to identify volatiles that emerged or were enhanced with more rancid walnuts. The findings of the GC–MS study of walnut VOCs align excellently with the GC-DMS study. Based on our results, we conclude that a GC-DMS device deployed with a pre-trained machine learning model can be a very effective device for classifying walnut grades in the industry.

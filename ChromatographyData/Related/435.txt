@@ -1,0 +1,13 @@
+Title: Evaluation of newly-developed glycated hemoglobin clinical analytic reagents and chromatography column on Tosoh HLC-723 G8 Analyzer
+
+Abstract: Objective
+                  To evaluate the performance of newly developed glycated hemoglobin (HbA1c) clinical analytic reagents and HPLC columns, applied on Tosoh HLC-723 G8 Analyzer.
+               
+                  Methods
+                  Newly developed reagents and columns were used on a Tosoh HLC-723 G8 Analyzer (standard mode) system to measure both of qulity contorls and the clinical blood samples to evaluate the performances of these newly developed prodcuts including precision, accuracy, linearity, carryover, bias evaluation, correlation with commercial reagents, and stability according to CLSI recommendations.
+               
+                  Results
+                  The CV of intra-assay precision and inter-assay precision of quality control and clinical blood sample assays using Lirimax products were both less than 3.00%. And the REs of accuracy were less than 6.00%. Linearity: R2 = 0.9993 in the concentration range 4.77%–14.67%. Carryover: 0.05%. The Bland-Altman mean difference: −0.003583% HbA1c (CI: 0.07398: −0.08115); Passing-Bablok regression: y = 1.0022(0.9984:1.006)x-0.01097(-0.03776: 0.01582), R2 = 0.9996. Stability evaluation was also acceptable.
+               
+                  Conclusion
+                  The performance of newly developed products was well evaluated for HbA1c measurement on a TOSOH G8 Analyzer which shows excellent suitability for clinical assay.

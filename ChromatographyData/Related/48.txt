@@ -1,0 +1,6 @@
+Title: Enantioseparation of two antifungal azole drugs by analytical countercurrent chromatography using sulfobutyl ether-β-cyclodextrin as chiral selector
+
+Abstract: This study reports a successful enantioseparation of two antifungal drugs, Ketoconazole and Voriconazole, using countercurrent chromatography (CCC) with synthesized sulfobutyl ether-β-cyclodextrin (SBE-β-CD) as chiral selector. Two biphasic solvent systems composed of dichloromethane: 0.1 mol L−
+                     1 of phosphate buffer solution (pH 3.0) (1:1, v/v) and n-hexane: ethyl acetate: 0.1 mol L−
+                     1 phosphate buffer solution (pH 3.0) (1.5:0.5:2, v/v/v) were selected. Influence factors were investigated, including degree of substitution of SBE-β-CD, concentration of SBE-β-CD, equilibrium temperature, and pH of aqueous phase. Under optimized separation conditions, a large enantioseparation factor of α ≥ 3.26 and a high peak resolution Rs
+                     = 1.82, was achieved for enantioseparation of Voriconazole by countercurrent chromatography, and purity of two azole stereoisomers collected from CCC separation reached 98.5%, as determined by HPLC. Molecular docking was employed to investigate the formation of inclusion complex.

@@ -1,0 +1,3 @@
+Title: Chromatography: Basic Principles
+
+Abstract: This article provides a summary of the fundamental principles of chromatography. An overview of the various chromatographic separation mechanisms and modes of chromatography is provided, concluding with a discussion of chromatographic theory including equilibria and band broadening.

@@ -1,0 +1,3 @@
+Title: Chapter 2 Kinetic theories of liquid chromatography
+
+Abstract: Kinetic theories of liquid chromatography play a key role in evaluating the performance of stationary phases. The conventionally used plate height equations and the band broadening occurring in the different areas of liquid chromatography are accounted for by kinetic models. In this chapter, the most important macroscopic (lumped kinetic, lumped pore, and general rate) and microscopic (stochastic–dispersive) models are discussed. The plate height equations arising from those kinetic models are discussed and compared.

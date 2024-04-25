@@ -1,0 +1,3 @@
+Title: Chiral Br\xc3\xb8nsted Acid Catalyzed Cascade Alcohol Deprotection and Enantioselective Cyclization.
+
+Abstract: The protection-deprotection sequence is vital to organic synthesis. Here, we describe a novel catalytic cascade where a chiral Br\xc3\xb8nsted acid selectively removes ether protecting groups and catalyzes intramolecular cyclization in one pot. We tested three model substrates from our previous work and investigated the rate of deprotection through gas chromatography (GC) studies. This work builds on our stereoselective synthesis of lactones by streamlining our synthesis. It also opens the door for additional investigations into other catalytic cascade reactions using chiral Br\xc3\xb8nsted acid catalysts.

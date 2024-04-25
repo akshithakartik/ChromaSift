@@ -1,0 +1,3 @@
+Title: Tuning interfacial chemistry with twistronics
+
+Abstract: Moiré superlattices introduce a new degree of freedom, interlayer twist, for tuning the (opto)electronic behavior of materials, through spatially modulated interlayer coupling that produces localized electronic states. We highlight recent explorations into the chemistry of moiré materials and discuss future opportunities for twistronics as a versatile platform for the manipulation of interfacial reactivity.

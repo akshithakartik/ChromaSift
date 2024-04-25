@@ -1,0 +1,16 @@
+Title: Serotonin secretion by blood platelets: accuracy of high-performance liquid chromatography-electrochemical technique compared with the isotopic test and use in a clinical laboratory
+
+Abstract: Background
+                  Mild secretion defects are the most frequent and challenging blood platelet disorders to diagnose. Most δ-granule secretion tests lack validation, are not quantitative, or have unreliable response to weak platelet agonists.
+               
+                  Objectives
+                  To compare platelet serotonin secretion by HPLC-electrochemical detection technique (HPLC-ECD) with the reference isotopic test (3H-5-HT), evaluating its performance in clinical laboratories.
+               
+                  Methods
+                  The assay validation followed STARD-2015 recommendations. HPLC-ECD measured the nonsecreted serotonin remaining in platelet pellets after aggregation, comparing it with the reference 3H-5-HT assay. We studied subjects with inherited and aspirin-induced blood platelet disorders and assessed the HPLC-ECD operation for routine clinical diagnosis.
+               
+                  Results
+                  Calibration curves were linear (R2 = 0.997), with SD for residuals of 3.91% and analytical sensitivity of 5ng/mL. Intra- and interassay imprecision bias ranged between −8.5% and 2.1% and −9% and 3.1%, respectively. Serotonin recovery and stability were >95%, and the variability range of measurements was −5.5% to 4.6%. Statistical differences detected between tests were biologically irrelevant, with bias of 1.48% (SD, 8.43) and CI agreement of −18% to 15%. Both assays distinctly detected platelet secretion induced by 10 μM epinephrine and 4 μmM adenosine diphosphate. However, HPLC-ECD is quantitative and more sensitive to low serotonin content in blood platelets. Reference cutoffs for each agonist were determined in 87 subjects. Initially, the HPLC-ECD requires relatively expensive equipment and trained operators but has remarkably cheap running costs and a turn-around time of 24-36 hours. We have used this diagnostic tool routinely for >8 years.
+               
+                  Conclusion
+                  HPLC-ECD assay for platelet serotonin secretion is highly accurate, has advantages over the reference 3H-5-HT test, and is suitable as a clinical laboratory technique.

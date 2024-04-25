@@ -1,0 +1,3 @@
+Title: Liquid Chromatography
+
+Abstract: Liquid Chromatography is a powerful analytical method employed for the separation of complex mixtures. This section introduces the reader to the multiple tools that liquid chromatography offers for dairy product analysis. The document is divided into two main parts. First, the basic features of theory, instrumentation, and operation of liquid chromatography are discussed. In the second part, a brief description of the extraction procedures and chromatographic modes employed for separation and quantification of the main components of milk and dairy products, as well as for some of the most common contaminants in milk is provided, including some specific examples.

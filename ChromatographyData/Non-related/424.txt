@@ -1,0 +1,18 @@
+Title: NO-chemistry during methanol combustion from rich to lean conditions—exploring the fuel property influence mechanisms on different NO pathways
+
+Abstract: Methanol is a favorable hydrogen-based energy storage media, and fire methanol in industrial boiler and furnace can achieve renewable and carbon-free energy supplies in industrial heating field. Knowledges about NO formation during methanol combustion are very limited, and in particular that under furnace combustion condition with excess oxygen and high temperature (up to 1500 °C) was lacked. This paper examined NO generation of methanol under broader operation range. By comparing its behavior with the well-studied methane, the NO-chemistry dependence on methanol fuel property was analyzed. Results showed the fuel property of methanol has opposite influence on NO generation between rich and lean combustion. During lean combustion, the O atom concentration was greatly increased to promote the conversion of N2 to NO via 
+                        
+                           
+                              N
+                              2
+                           
+                           +
+                           O
+                           ↔
+                           N
+                           +
+                           NO
+                        
+                      under high temperature. This fuel-related mechanism makes NO generation being independent on residence time but closely correlated to fuel concentration. This proposed O enhanced mechanism also explains some previous observations that the contribution from NNH and N2O pathway is larger for methanol than methane at lean condition. Under fuel rich combustion, however, methanol generates NO mainly via prompt pathway, sharing the similar mechanism to methane but with much reduced level due to the decreased CH
+                        i
+                      concentration.

@@ -1,0 +1,3 @@
+Title: Non-targeted multimodal metabolomics data from ovine rumen fluid fractions.
+
+Abstract: From an animal health perspective, our understanding of the metabolites in rumen fluid across different host species is poorly understood. Here, we present a metabolomic data set generated using hydrophilic interaction liquid chromatography and semi-polar (C18) chromatography methods coupled to high-resolution mass spectrometry of fractionated ovine rumen samples.

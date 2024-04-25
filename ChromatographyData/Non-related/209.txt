@@ -1,0 +1,8 @@
+Title: Tailoring surface chemistry of MXenes to boost initial coulombic efficiency for lithium storage
+
+Abstract: MXenes are expected to exhibit excellent lithium-ion storage performance due to its good electron conductivity, tunable functional groups, and unique accordion-like structure. However, they suffer from low initial coulombic efficiency (ICE) caused by the trapping and the irreversible reaction between MXene nanosheets and lithium ions. In this work, we propose a facile d-band center regulation strategy via doping engineering to achieve tailorable surface chemistry of MXene, revealing the intrinsic effects of heteroatoms doping on surface chemistry and ICE. This strategy can be applied to various MXenes, which is verified in the case of V2-
+                     
+                        y
+                     Cr
+                        y
+                     C as well as TiNbC, and TiVC MXenes. Typically, the V1.8Cr0.2C MXene delivers a double lithium storage capacity in comparison to V2C MXene. Its ICE is improved from 60% to 86%, surpassing most state-of-the-art MXenes. Theoretical calculations reveal that the shift of the d-band center towards the Fermi level is induced by the introduction of Cr and responsible for the improved electrochemical performance. It increases its chemical affinity and absorbability for oxygen-containing functional groups and lithium ions, providing a favorable surface chemistry for efficient lithium storage. This work provides a new strategy to tailor the fine structures of MXenes for their further energy storage applications.

@@ -1,0 +1,3 @@
+Title: An affordable gradient mixer for chromatography with aqueous and organic solvents
+
+Abstract: A gradient mixer for preparative column chromatography has been developed, using a microcontroller, a three-way solenoid valve, and a one-channel pump of any chosen design, controlled by a microcontroller and with specifications for the gradient entered through a touchscreen. The gradient mixer is economical and can be produced with the design files provided.

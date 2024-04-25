@@ -1,0 +1,3 @@
+Title: 50 years of chiral liquid Chromatography. How it started
+
+Abstract: The birth of modern chiral liquid chromatography can be traced back to the years 1968–71 when the first complete resolution of a racemic amino acid was obtained and presented in the literature. Extreme enantioselectivity was achieved due to the introduction of ligand exchange principle, i.e. participation of a copper ion in the solute-sorbent interactions. Simultaneously, first microporous (hypercrosslinked) polymeric matrixes were introduced, thus enhancing the chromatographic efficiency of the process.

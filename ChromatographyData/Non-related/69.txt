@@ -1,0 +1,3 @@
+Title: Application of click chemistry in the synthesis of bidentate ligands and their metal complexes
+
+Abstract: The Sharpless concept of copper(I) catalyzed azide-alkyne cycloaddition reaction otherwise referred to as click chemistry has gained attention in the synthesis of heterocyclic molecules. This simple and efficient method of synthesizing organic molecules of various applications has not been fully unleashed in the synthesis of bidentate ligands for coordination chemistry. This review will discuss the inroads in the application of click chemistry in the synthesis of bidentate ligands and the application of the metal complexes from these ligands in catalysis.

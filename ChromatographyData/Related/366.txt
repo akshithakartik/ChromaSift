@@ -1,0 +1,10 @@
+Title: Quantitative and classification analysis of red wine by infrared spectra and gas chromatography–mass spectrometry data coupling with a new variable selection method
+
+Abstract: A new chemometric variable selection model named as consensus G-based variable selection (G-based VS) was constructed. The model combined consensus strategy with uncorrelated linear discriminant analysis to select characteristic variables based on “load capacity” (
+                        
+                           
+                              G
+                           
+                           ¯
+                        
+                      value) and occurrence frequency of each variable in multiple sub-models (member models). It achieved accurate classification results of wine from different geographical origins with multi-type datasets of infrared spectra, chromatography and mass profile. Then IR spectra combined with least squares support vector regression (LSSVR) was utilized for the prediction of multiple quality parameters of red wine with the selected feature variables, and the results showed good performance in terms of prediction accuracy and robustness compared with other published variable selection methods. Therefore, the proposed method shows potential in variable selection for the quantitative and classification analysis of red wine.

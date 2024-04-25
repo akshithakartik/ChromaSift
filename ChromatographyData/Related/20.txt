@@ -1,0 +1,3 @@
+Title: Separation of cyclotron-produced cobalt-55/58m from iron targets using cation exchange chromatography with non-aqueous solvents and extraction chromatography
+
+Abstract: Cobalt-55 and -58m form a theranostic pair that has relevant properties for cancer research. We report a cation exchange chromatography/extraction chromatography method that separates cyclotron-produced 55/58mCo from 54/57Fe in <1.5 h, recovers >85% Co and achieves [55Co]Co-NOTA and -DOTA AMA 89 ± 48 and 35 ± 7 MBq/nmol (EOB), respectively. Cobalt-55 and -58m were quantitatively labeled to functionalized NOTA at 106 and 50 MBq/nmol (EOB), respectively, corroborating measured AMA. This method is faster than previously published methods and achieves better [55/58mCo]Co-NOTA and -DOTA AMA.

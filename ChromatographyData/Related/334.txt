@@ -1,0 +1,33 @@
+Title: A novel endogenous retention-index for minimizing retention-time variations in metabolomic analysis with reversed-phase ultrahigh-performance liquid-chromatography and mass spectrometry
+
+Abstract: Consistent retention time (t
+                     
+                        R
+                     ) of metabolites is vital for identification in metabolomic analysis with ultrahigh-performance liquid-chromatography (UPLC). To minimize inter-experimental t
+                     
+                        R
+                      variations from the reversed-phase UPLC-MS, we developed an endogenous retention-index (endoRI) using in-sample straight-chain acylcarnitines with different chain-length (L
+                     
+                        C
+                     , C0–C26) without additives. The endoRI-corrections reduced the t
+                     
+                        R
+                      variations caused by the combined changes of mobile phases, gradients, flow-rates, elution time, columns and temperature from up to 5.1 min–0.2 min for most metabolites in a model metabolome consisting of 91 metabolites and multiple biological matrices including human serum, plasma, fecal, urine, A549 cells and rabbit liver extracts. The endoRI-corrections also reduced the inter-batch and inter-platform t
+                     
+                        R
+                      variations from 1.5 min to 0.15 min for 95 % of detected features in the above biological samples. We further established a quantitative model between t
+                     
+                        R
+                      and L
+                     
+                        C
+                      for predicting t
+                     
+                        R
+                      values of acylcarnitines when absent in samples. This makes it possible to compare metabolites’ t
+                     
+                        R
+                      from different t
+                     
+                        R
+                      databases and the UPLC-based metabolomic data from different batches.

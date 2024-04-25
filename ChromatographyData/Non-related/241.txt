@@ -1,0 +1,3 @@
+Title: Atmospheric chemistry of 1,1-difluoroacetone, CHF2C(O)CH3: Kinetics, products and mechanisms of the Cl atom and OH radical initiated oxidation
+
+Abstract: Smog chamber techniques were used to study the Cl atom and OH radical initiated oxidation of 1,1-difluoroacetone (CF2HC(O)CH3) in 700 Torr of air or N2 diluent at 297 K. Using relative rate methods k(Cl + CF2HC(O)CH3) = (5.0 ± 0.8) × 10−14 cm3 molecule-1 s−1 and k(OH + CF2HC(O)CH3) = (2.6 ± 0.7) × 10−14 cm3molecule-1s−1 were determined. The atmospheric lifetime of CF2HC(O)CH3 with respect to reaction with OH radicals is estimated at 1.2 years. Atmospheric oxidation yields COF2, CO and CO2. The data suggests that Cl atoms primarily attack the –CF2H group, whereas OH radicals also attack the –CH3 group.

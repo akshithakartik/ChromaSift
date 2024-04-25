@@ -1,0 +1,3 @@
+Title: Aqueous stability and redox chemistry of synthetic [Fe4S4] clusters
+
+Abstract: Iron-sulfur proteins are ubiquitous in nature, acting as electron carriers and catalysts. Hence, a plethora of synthetic analogs has been prepared to serve as active site models. However, the physical properties and functions of FeS clusters are substantially influenced by their interaction with the protein matrices and solvent media. Deeper insight is obtained from studying the various synthetic FeS clusters with improved aqueous stability and artificial protein maquettes, which have been prepared. This review examines the effect of aqueous media on the stability and redox chemistry of biomimetic analogs and artificial [Fe4S4] proteins.

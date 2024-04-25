@@ -1,0 +1,3 @@
+Title: When transition-metal-catalyzed C–H activation meets allene chemistry
+
+Abstract: Transition-metal-catalyzed allenes-involved C–H functionalizations demonstrate unique selectivity and undergo exceptional pathways due to the existence of elusive orthogonal cumulative CCC bonds. As a result, it allows for a diverse array of C–H activation reactions, such as allylation, alkenylation, allenylation, dienylation, propargylation, and annulation. In this review, we comprehensively summarize the noteworthy aspects of transition-metal-catalyzed C–H functionalizations involving variously substituted allenes.

@@ -1,0 +1,3 @@
+Title: Green chemistry
+
+Abstract: The utilization of the Earth resources in a non-controlled and non-rational way lead to problems not only to the environment, but also to human health and therefore social and economic problems. This chapter deals with the definition of Green Chemistry and the connection with other related concepts. It covers the principles of Green Chemistry and the influence in Green Analytical Chemistry and topics of study. Also, some relevant areas influenced by Green Chemistry, such as biorefineries, green hydrogen, and click chemistry are discussed. The effect of greenwashing is considered. Finally, aspects of the future implementation of Green Chemistry are noted.

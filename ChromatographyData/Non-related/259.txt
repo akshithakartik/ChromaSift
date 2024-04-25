@@ -1,0 +1,65 @@
+Title: Geographical and seasonal patterns in the carbonate chemistry of Narragansett Bay, RI
+
+Abstract: This study examined geographical and seasonal patterns in carbonate chemistry and will facilitate assessment of acidification conditions and the current state of the seawater carbonate chemistry system in Narragansett Bay. Direct measurements of total alkalinity, dissolved inorganic carbon, dissolved oxygen percent saturation, water temperature, salinity and pressure were performed during monthly sampling cruises carried out over three years. These measurements were used to calculate the following biologically relevant carbonate system parameters: total pH (pHT), the partial pressure of carbon dioxide in the gas phase (pCO2), and the aragonite saturation state (
+                        
+                           
+                              Ω
+                           
+                           
+                              A
+                           
+                        
+                     ). The information provided by carbonate chemistry analysis allowed for the characterization of acidification events which have the potential to disrupt the species composition and ecological functioning of coastal biological communities and threaten commercially important aquatic life. We found very robust relationships between salinity and total alkalinity (
+                        
+                           
+                              
+                                 R
+                              
+                              
+                                 adjusted
+                              
+                              
+                                 2
+                              
+                           
+                           =
+                           0
+                           .
+                           82
+                        
+                     ) and between salinity and dissolved inorganic carbon (
+                        
+                           
+                              
+                                 R
+                              
+                              
+                                 adjusted
+                              
+                              
+                                 2
+                              
+                           
+                           =
+                           0
+                           .
+                           81
+                        
+                     ) that persisted through all regions, seasons, and depth–layers with mixing of coastal waters with freshwater entering in the upper bay being an important driver on alkalinity and dissolved inorganic carbon distributions. We compared the metabolically linked calculated carbonate system parameters with dissolved oxygen (DO) saturation and found high correlation, with DO percent saturation exhibiting robust correlation with the calculated carbonate system parameters total pH (
+                        
+                           r
+                           =
+                           0
+                           .
+                           70
+                        
+                     ) and with partial pressure of carbon dioxide in the gas phase (
+                        
+                           r
+                           =
+                           −
+                           0
+                           .
+                           71
+                        
+                     ). Using a statistical model to correct for the confounded effects of time and space that are a common challenge in marine survey design, we found that acidification events occurred in the Northern Region of the bay, primarily during the Summer and Fall, and likely due to a combination of microbial respiration and stratification. These acidification events, especially in the Northern Region, have the potential to adversely impact aquatic life.

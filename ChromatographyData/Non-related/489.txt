@@ -1,0 +1,3 @@
+Title: Flow chemistry of main group and transition metal complexes
+
+Abstract: Continuous flow reactors have earned their place as an important technology in organic synthesis, receiving increased interest in the past decade. The favorable heat and mass transfer capabilities, combined with the ease of scale-up, have not only made it a safer option in many cases, but often the only option when dealing with highly reactive, short-lived intermediates. In this review, an overview is given of the most recent advances made in the flow synthesis of organometallic compounds. This includes both main group and transition metal applications.

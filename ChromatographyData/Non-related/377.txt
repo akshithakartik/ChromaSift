@@ -1,0 +1,104 @@
+Title: Understanding non-equilibrium 
+                  
+                     
+                        N
+                        2
+                     
+                     O
+                  
+               /
+                  
+                     NO
+                     
+                        x
+                     
+                  
+                chemistry in plasma-assisted low-temperature 
+                  
+                     NH
+                     3
+                  
+                oxidation
+
+Abstract: Ammonia represents one of most promising zero-carbon energy solutions to address the increasingly urgent climate change problem. However, the existing utilization of ammonia faces significant challenges from low chemical reactivity and high 
+                        
+                           
+                              N
+                              2
+                           
+                           O
+                           /
+                           
+                              NO
+                              x
+                           
+                        
+                      emissions, which cause severe inefficiency issues such as cold start and cycle variability of power generation, and detrimental effects on air quality, respectively. A sustainable and energy-efficient approach to tackle the above challenges is low temperature plasma which enables non-equilibrium energy and chemical utilization of ammonia such as oxidation using renewable electricity. As such, this work, for the first time, explores plasma assisted ammonia oxidation at room temperature with a focus on unveiling non-equilibrium 
+                        
+                           NO
+                           
+                              x
+                           
+                        
+                     /
+                        
+                           
+                              N
+                              2
+                           
+                           O
+                        
+                      reaction pathways by combining in-situ laser diagnostics with plasma modeling. We found that the non-equilibrium plasma controls the 
+                        
+                           NO
+                           
+                              x
+                           
+                        
+                      formation by supplying 
+                        
+                           O
+                           /
+                           H
+                           /
+                           N
+                        
+                      atoms via electron-impact dissociation and collisional quenching of excited species. The 
+                        
+                           
+                              N
+                              2
+                           
+                           O
+                        
+                      formation follows a two-step mechanism, where electron-impact reactions first provide amine radicals which further react with 
+                        
+                           NO
+                           
+                              x
+                           
+                        
+                      to generate 
+                        
+                           
+                              N
+                              2
+                           
+                           O
+                        
+                     . These pathways facilitate a high-efficiency and environment-friendly operation of plasma assisted ammonia oxidation with enhanced reactivity and reduced 
+                        
+                           NO
+                           
+                              x
+                           
+                        
+                     /
+                        
+                           
+                              N
+                              2
+                           
+                           O
+                        
+                      emissions through manipulating mixture compositions and plasma discharge parameters.

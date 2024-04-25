@@ -1,0 +1,3 @@
+Title: 1.08 Noble-gas chemistry
+
+Abstract: The present review covers recent advances (2012–21) in the field of noble-gas chemistry, with emphases on the synthetic and structural characterizations of xenon and krypton compounds that have been formed in macroscopic quantities. The results of gas-phase theoretical calculations are discussed in the light of the experimental structures and spectroscopic findings. Applications of noble-gas compounds to the syntheses of the high-oxidation-state transition-metal fluoride and oxide fluoride species are also featured. The formation of noble-gas species in the gas-phase, in matrices, and at high pressures are also discussed.

@@ -1,0 +1,13 @@
+Title: Point-of-Care Chemistry-Guided Dialysate Adjustment to Reduce Arrhythmias: A Pilot Trial
+
+Abstract: Introduction
+                  Excessive dialytic potassium (K) and acid removal are risk factors for arrhythmias; however, treatment-to-treatment dialysate modification is rarely performed. We conducted a multicenter, pilot randomized study to test the safety, feasibility, and efficacy of 4 point-of-care (POC) chemistry-guided protocols to adjust dialysate K and bicarbonate (HCO3) in outpatient hemodialysis (HD) clinics.
+               
+                  Methods
+                  Participants received implantable cardiac loop monitors and crossed over to four 4-week periods with adjustment of dialysate K or HCO3 at each treatment according to pre-HD POC values: (i) K-removal minimization, (ii) K-removal maximization, (iii) Acidosis avoidance, and (iv) Alkalosis avoidance. The primary end point was percentage of treatments adhering to the intervention algorithm. Secondary endpoints included pre-HD K and HCO variability, adverse events, and rates of clinically significant arrhythmias (CSAs).
+               
+                  Results
+                  Nineteen subjects were enrolled in the study. HD staff completed POC testing and correctly adjusted the dialysate in 604 of 708 (85%) of available HD treatments. There was 1 K ≤3, 29 HCO3 <20 and 2 HCO3 >32 mEq/l and no serious adverse events related to study interventions. Although there were no significant differences between POC results and conventional laboratory measures drawn concurrently, intertreatment K and HCO3 variability was high. There were 45 CSA events; most were transient atrial fibrillation (AF), with numerically fewer events during the alkalosis avoidance period (8) and K-removal maximization period (3) compared to other intervention periods (17). There were no significant differences in CSA duration among interventions.
+               
+                  Conclusion
+                  Algorithm-guided K/HCO3 adjustment based on POC testing is feasible. The variability of intertreatment K and HCO3 suggests that a POC-laboratory-guided algorithm could markedly alter dialysate-serum chemistry gradients. Definitive end point-powered trials should be considered.

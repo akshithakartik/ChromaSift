@@ -1,0 +1,17 @@
+Title: Model-based evaluation and model-free strategy for process development of three-column periodic counter-current chromatography
+
+Abstract: Multi-column counter-current chromatography is an advanced technology used for continuous capture processes to improve process productivity, resin capacity utilization and product consistency. However, process development is difficult due to process complexity. In this work, some general and convenient guidances for three-column periodic counter-current chromatography (3C-PCC) were developed. Boundaries and distributions of operating windows of 3C-PCC processes were clarified by model-based predictions. Interactive effects of feed concentration (c
+                     0), resin properties (q
+                     max and D
+                     e), recovery and regeneration times (t
+                     RR) were evaluated over a wide range for maximum productivity (P
+                     max). Furthermore, variation of P
+                     max was analyzed considering the constraint factors (capacity utilization target and flow rate limitation). The plateau value of P
+                     max was determined by q
+                     max and t
+                     RR. The operating conditions for P
+                     max were controlled by q
+                     max, t
+                     RR and c
+                     0 interactively, and a critical concentration existed to judge whether the operating conditions of P
+                     max under constraints. Based on the comprehensive understanding on 3C-PCC processes, a model-free strategy was proposed for process development. The optimal operating conditions could be determined based on a set of breakthrough curves, which was used to optimize process performance and screen resins. The approach proposed was validated using monoclonal antibody (mAb) capture with a 3C-PCC system under various mAb and feed concentrations. The results demonstrated that a thorough model-based process understanding on multi-column counter-current chromatography is important and could improve process development and establish a model-free strategy for more convenient applications.

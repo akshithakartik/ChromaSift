@@ -1,0 +1,3 @@
+Title: Advancing data-driven chemistry by beating benchmarks
+
+Abstract: Enabled by data management and digitalization adoption in chemistry, machine learning (ML) is accelerating chemistry through automated data analysis, materials embeddings, property prediction, and active learning. Beyond existing demonstrations of ML in chemistry, there is a critical need for chemically driven benchmarks to make ML models fail in a constructive manner.

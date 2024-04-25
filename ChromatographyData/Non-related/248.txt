@@ -1,0 +1,13 @@
+Title: Analytical evaluation and Sigma metrics of 6 next generation chemistry assays on the Abbott Architect system
+
+Abstract: Background
+                  We evaluated analytical and Sigma performance for 6 next generation chemistry assays on the Abbott Architect c8000 system.
+               
+                  Methods
+                  Albumin with bromocresol purple or green, amylase, cholesterol, total protein, and urea nitrogen were analyzed using photometric technology. Analytical performance goals were defined based on Accreditation Canada Diagnostics (ACD) and Clinical Laboratory Improvement Amendments (CLIA). Precision study consisted of testing 2 quality control concentrations and 3 patient serum sample pools, twice a day in quintuplicate over 5 days. Linearity testing consisted of 5–6 concentrations of commercial linearity materials. We tested a minimum of 120 serum/plasma specimens on the new and current Architect methods for comparison. We assessed accuracy with reference materials for 5 assays, and a calibration standard for cholesterol. Bias from the reference standard target value was used for Sigma metric analysis.
+               
+                  Results
+                  Observed total imprecision of the assays ranged from 0.5 to 4%, meeting pre-defined goals. Linearity was acceptable over the tested range. Measurements on the new and current Architect methods were comparable. Accuracy ranged from 0 to 2.0% absolute mean difference from target value. All 6 next generation clinical chemistry assays demonstrated Six Sigma quality, using CLIA standards.
+               
+                  Conclusion
+                  Applying ACD recommendations, 5 assays showed Six Sigma, while cholesterol showed Five Sigma performance.

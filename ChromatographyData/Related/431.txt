@@ -1,0 +1,3 @@
+Title: Chapter 24 Application of enantioselective liquid chromatography
+
+Abstract: Volume 1 of this book has a chapter about fundamentals of enantioselective liquid chromatography. This chapter discusses the analytical and preparative-scale applications of enantioselective liquid chromatography with the emphases on pharmaceutical, biomedical, environmental, and food analysis. The applications of enantioselective liquid chromatography to some special problem solving such as forensic analysis, organic synthesis, reaction kinetics, etc., as well as preparative-scale liquid chromatographic separations are also covered and further challenges are highlighted.

@@ -1,0 +1,15 @@
+Title: Understanding the oxidation chemistry of Ti3C2T
+                  x
+                (MXene) sheets and their catalytic performances
+
+Abstract: Transition metal carbides and nitrides (MXenes) nanosheets are attractive two-dimensional (2D) materials, but they suffer from oxidation/degradation issues during storage and/or applications due to their sensitivity to water and oxygen. Despite the great research progress, the exact oxidation kinetics of Ti3C2T
+                        x
+                      (MXene) and their final products after oxidation are not fully understood. Herein, we systematically tracked the oxidation process of few-layer Ti3C2T
+                        x
+                      nanosheets in an aqueous solution at room temperature over several weeks. We also studied the oxidation effects on the electrocatalytic properties of Ti3C2T
+                        x
+                      for hydrogen evolution reaction and found that the overpotential to achieve a current density of 10 mA cm−1 increases from 0.435 to 0.877 V after three weeks of degradation, followed by being improved to stabilized values of around 0.40 V after eight weeks. These results suggest that severely oxidized MXene could be a promising candidate for designing efficient catalysts. According to our detailed experimental characterization and theoretical calculations, unlike previous studies, black titanium oxide is formed as the final product in addition to white Ti (IV) oxide and disordered carbons after the complete oxidation of Ti3C2T
+                        x
+                     . This work presents significant advancements in better understanding of 2D Ti3C2T
+                        x
+                      (MXene) oxidation and supports to enhance the prospects of this material for various applications.

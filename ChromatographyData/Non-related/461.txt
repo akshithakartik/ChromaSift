@@ -1,0 +1,3 @@
+Title: Studying chemistry in cyberspace
+
+Abstract: Jun-Hyeong earned his BS degree in physics and chemistry from Ulsan National Institute of Science and Technology (UNIST). He later moved to Korea Advanced Institute of Science and Technology (KAIST) to obtain a PhD degree in chemistry under the guidance of Prof. Mu-Hyun (Mookie) Baik. During his PhD studies, he focused on gaining a quantitative understanding of the electronic structure of redox non-innocent ligands using multiconfigurational methods. He is now expanding his research area to developing density functional methods for the electro-inductive effect, namely fractional charge density functional theory (DFT).

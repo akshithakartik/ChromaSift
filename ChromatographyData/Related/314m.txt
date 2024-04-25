@@ -1,0 +1,14 @@
+Title: Analytical Performance Evaluation for Estradiol using Liquid Chromatography–Tandem Mass Spectrometry
+
+Abstract: Background
+                  There is an increased need for the sensitive and accurate measurement of estradiol levels in patients with estradiol-related endocrine disorders. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) is a reliable and accurate method for measuring steroid hormone levels. Here, we aimed to establish an LC-MS/MS-based method to quantify estradiol levels without sample derivatization and evaluated its analytical performance.
+               
+                  Methods
+                  Sciex Triple Quad 6500 + LC-MS/MS was used for estradiol analysis. We evaluated its analytical performance, including linearity, precision, the lower limit of detection and quantification (LoD and LoQ, respectively), accuracy, and carryover. The estradiol results determined by LC-MS/MS were compared with those obtained using a chemiluminescent microparticle immunoassay.
+               
+                  Results
+                  The LC-MS/MS output was linear for serum estradiol concentrations in the range of 0.2–10311.6 pmol/L. The intra-laboratory precision (coefficient of variation) was 3.0–10.1 %. The LoD and LoQ were 2.8 and 7.5 pmol/L, respectively. The overall accuracy was within 15 % of bias, and the carryover was within the acceptable range (<1.0 %). The results of the estradiol analysis determined by LC-MS/MS were comparable to those obtained by the chemiluminescent microparticle immunoassay (r2
+                      = 0.9843), although there was a negative bias of − 17.82 (95 % confidence interval, −27.21 to − 8.44).
+               
+                  Conclusions
+                  A highly sensitive, derivatization-free LC-MS/MS method was successfully developed in this study. This may be beneficial for estradiol measurements in patients with estradiol-related endocrine disorders.

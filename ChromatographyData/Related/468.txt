@@ -1,0 +1,19 @@
+Title: Microscale supercritical fluid extraction combined with supercritical fluid chromatography and proton-transfer-reaction ionization time-of-flight mass spectrometry for a magnitude lower limit of quantitation of lipophilic compounds
+
+Abstract: The application of proton transfer ionization reaction mass spectrometry (PTR MS) combined with microscale supercritical fluid extraction (SFE) and supercritical fluid chromatography (SFC) aiming to quantitate single-cell fatty acid analysis levels was investigated. Using a microscale extraction vessel, the obtained low limits of quantitation (LLOQs) of arachidonic acid and arachidic acid were 1.2 and 2.7 fmol, respectively, by using less than 1 µ
+                        L
+                      of sample on stainless steel frit. A series of phthalate, vitamin K
+                        
+                           
+                           1
+                        
+                     , and 
+                        α
+                     -tocopherol were also tested, and the LLOQ was less than one femtomole for phthalate and 35 and 13 fmol for vitamin K
+                        
+                           
+                           1
+                        
+                      and 
+                        α
+                     -tocopherol, respectively. A microliter portion of SFE extracts was introduced into the SFC column by split injection, improving the reproducibility of the chromatography and separation efficiency. The method in the present study has great potential to quantitate lipophilic molecules on the nanogram scale of a sample without complex preparation procedures.

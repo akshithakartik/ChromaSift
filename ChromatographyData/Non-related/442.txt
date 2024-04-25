@@ -1,0 +1,13 @@
+Title: Towards the development of biostable dental resin systems - design criteria and constraints beyond ester-free chemistries
+
+Abstract: Objective
+                  The objective of this review article is to summarize the current literature on dental resin-based restorative (RBR) materials specifically from the perspective of emerging resin technologies, and to provide researchers with structured design criteria enabling the effective screening of new RBR developments.
+               
+                  Methods
+                  The continued failure of newly introduced RBRs to address biostability without compromising function, over the last decade, are presented as a rationale to support different resin-based concepts. Several developments in the field, aimed at addressing the issues facing modern resin-based systems are summarized and their limitations discussed. A design workflow is proposed for evaluating new RBR, considering resource needs.
+               
+                  Results
+                  While several alternative resin chemistries have been suggested over the past decade, all have shown serious limitations in replacing MA-based materials, including their limited physical and mechanical properties, and curing kinetics. Additionally, a broad and inconsistent range of laboratory methods have been used to validate these developments, leading to results that are difficult to compare across studies. A design workflow was conceptualized to facilitate the screening of novel RBRs from both a clinical and research perspective.
+               
+                  Significance
+                  While several alternative chemistries have shown some degree of potential in emulating material property aspects of MA-based resins, a complete restorative system that is resistant to biochemical reactions in saliva has yet to achieve broad clinical adoption. To further spur development, it would be useful to have a more systematic design workflow, that may be used to easily screen new resin technologies effectively early in the design phase, so as to mitigate potential performance failures in the clinic.

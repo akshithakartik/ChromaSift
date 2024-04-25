@@ -1,0 +1,29 @@
+Title: Absorption and escape kinetics of spherical biomolecules from fully porous particles utilized in size exclusion chromatography
+
+Abstract: The increasing demand for the characterization of large biomolecules such as monoclonal antibodies, double-stranded deoxyribonucleic acid (dsDNA), and virus-like particles (VLPs) is raising fundamental questions pertaining to their absorption (ingress) and escape (egress) kinetics from fully porous particles. The exact expression of their concentration profiles is derived as a function of time and radial position across a single sub-3 
+                        
+                           μ
+                        
+                     m Bridge-Ethylene-Hybrid (BEH
+                        
+                           
+                           TM
+                        
+                     ) Particle present in size exclusion chromatography (SEC) columns. The boundary condition at the external surface area of the particle is a rectangular concentration profile mimicking the passage of the chromatographic zone. Four different BEH Particles were considered in the calculations depending on the molecular size of the analyte: 2.0 
+                        
+                           μ
+                        
+                     m 100 Å BEH Particles for small molecules, 2.0 
+                        
+                           μ
+                        
+                     m 200 Å BEH Particles for monoclonal antibodies, 2.0 
+                        
+                           μ
+                        
+                     m 300 Å BEH Particles for dsDNA (100 base pairs), and 2.5 
+                        
+                           μ
+                        
+                     m 900 Å BEH Particles for virus-like particles (VLPs).
+                  The calculated concentration profiles of small molecules and monoclonal antibodies confirm that all BEH Particles present in the column reach quasi-instantaneously thermodynamic equilibrium with the bulk mobile phase during the passage of the chromatographic band. This is no longer the case for larger biomolecules such as dsDNA or VLPs, especially when the SEC particle is located near the column inlet and for high velocities. The kinetics of biomolecule egress is slower than its kinetics of ingress leading to pronounced peak tailing. The mean concentration of the largest biomolecules in the SEC particles remains always smaller than the maximum bulk concentration. This persistent and transient intra-particle diffusion regime has direct implications on the theoretical expressions of the observed retention factors and plate heights. Classical theories of chromatography assume uniform spatial distribution of the analyte in the particle volume: this hypothesis is not verified for the largest biomolecules. These results imply that non-porous particles or monolithic structures are the most promising stationary phases for the separation and purification of the largest biomolecules in life science.

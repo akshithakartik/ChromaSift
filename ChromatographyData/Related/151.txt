@@ -1,0 +1,4 @@
+Title: Green cannabigerol purification through simulated moving bed chromatography
+
+Abstract: Cannabigerol (CBG) is a minor cannabinoid present in Cannabis sativa L. This molecule is gaining increasing popularity thanks to its antibacterial, antimicrobial, antidepressant and antitumoral properties. In parallel, there is growing attention towards the search of efficient, cost-effective, rapid, high-throughput, and green purification techniques.
+                  In this work, CBG has been purified from a real cannabis extract by means of simulated moving bed chromatography. The proposed application is very promising, allowing to achieve a CBG extract free of tetrahydrocannabinol (a psychoactive cannabinoid) with 100% recovery and 97% final purity by using a faster and greener method if compared to traditionally used ones.

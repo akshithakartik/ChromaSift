@@ -1,0 +1,3 @@
+Title: Single-molecule fluorescence in redox chemistry
+
+Abstract: Optical studies of redox reactions are relatively non-invasive and can be performed in solution or on surfaces. These advantages are paired with advances in single-molecule and super-resolution methods. However, in electrochemistry, analysis is complicated by surface effects such as local heterogeneity in structure and chemistry, affecting redox thermodynamics and kinetics as well as the fluorescent properties of the dyes. We summarize single-molecule work done in our groups, in particular on single protein molecules, and discuss perspectives for future developments.

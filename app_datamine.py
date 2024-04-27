@@ -48,7 +48,7 @@ df['Text'] = df['Text'].apply(bert_preprocess)
 documents = df.Text
 preprocessed_documents = [preprocess(doc) for doc in documents]
 
-file_path_pickle = "data.pickle" #Replace with local file path
+file_path_pickle = "data2.pickle" #Replace with local file path
 
 with open(file_path_pickle, 'rb') as file:
     final_embeddings = pickle.load(file)

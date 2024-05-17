@@ -14,5 +14,5 @@ https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599
 
 ![pipeline](https://github.com/akshithakartik/ChromaSift/assets/112664522/2e625125-7273-4166-bf43-3f534152216b)
 
-<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/2e625125-7273-4166-bf43-3f534152216b" width="800" height="300">
+<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/2e625125-7273-4166-bf43-3f534152216b" width="750" height="300">
 

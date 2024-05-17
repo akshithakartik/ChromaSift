@@ -30,10 +30,11 @@ While existing platforms like PubMed, Google Scholar, Scopus, Web of Science, an
 
 ChromaSift provides **query flexibility** and **comprehensive results**. It goes beyond basic keyword matching by detecting and retrieving documents that are **indirectly related** to the entered keyword. 
 
-<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="350" width="450" />
+<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="300" width="400" />
 
 For example, when the query "*amino acid*" is entered, a document with 22% similarity is returned. 
 Interestingly, this document does not contain the phrase "*amino acid*" **anywhere** in its text. 
+
 However, it is determined as relevant because it primarily discusses High-Performance Liquid Chromatography (HPLC), which is the main method for amino acid analysis. 
 
 This highlights ChromaSift's ability to identify documents that are indirectly related to the query by considering **broader context** and **connections within scientific literature**.

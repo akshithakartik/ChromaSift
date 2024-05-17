@@ -1,4 +1,4 @@
-# ChromaSift
+<h3 style="text-align: center;">H3 that is center aligned</h3>
 
 https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599-8e31-f0a3ad5bb1a0
 

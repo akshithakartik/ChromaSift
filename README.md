@@ -27,6 +27,7 @@ https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599
 While existing platforms like PubMed, Google Scholar, Scopus, Web of Science, and SciFinder offer extensive databases and advanced search capabilities for accessing scientific literature, ChromaSift is specifically geared towards chromatography-related documents, providing a focused and curated search experience for users interested in this field.
 
 ChromaSift provides query flexibility and comprehensive results. It goes beyond basic keyword matching by detecting and retrieving documents that are indirectly related to the entered keyword. 
-![image](https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95)
+
+<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="220" width="210" />
 
 For example, the query "amino acid" entered above returns 

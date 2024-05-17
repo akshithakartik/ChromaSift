@@ -14,6 +14,9 @@ https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599
 
 ![image](https://github.com/akshithakartik/ChromaSift/assets/112664522/60441492-86e6-4678-acf3-c1537d4b71a3)
 
-Scientific journals like PubMed are first scraped to obtain a corpus of abstracts. These are then pre-processed, using methods like stopword removal and lemmatization, and inputted to the Neo4j graph database and ML model. The ML phase of the pipeline consists of SciBERT - a domain-specific adaptation of BERT tailored specifically for scientific text - which is utilized to obtain document and query embeddings. Metrics like Cosine Similarity and BM-25 are combined to form a hybrid score, reflecting the percentage similarity of a document to the query. Finally, this is integrated with Streamlit to create an interactive interface for users.
+1) Data Collection and Pre-processing: Abstracts from scientific journals like PubMed are scraped to create a corpus of scientific literature. The abstracts are pre-processed using techniques such as stopword removal and lemmatization to clean and standardize the text.
+2) Neo4j Graph Database: The pre-processed abstracts are stored in a Neo4j database, enabling efficient querying and relationships analysis.
+3) ML Model: SciBERT, a domain-specific adaptation of BERT tailored for scientific text, is used to generate embeddings for both documents and queries. Cosine Similarity and BM-25 are combined to compute a hybrid score, which quantifies the percentage similarity between a document and the query.
+4) Streamlit: The results are integrated into an interactive interface built with Streamlit, allowing users to input queries and view ranked documents based on their relevance.
 
 

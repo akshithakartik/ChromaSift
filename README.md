@@ -14,6 +14,10 @@ https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599
 
 ![image](https://github.com/akshithakartik/ChromaSift/assets/112664522/60441492-86e6-4678-acf3-c1537d4b71a3)
 
+<p align="center">
+  <img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/60441492-86e6-4678-acf3-c1537d4b71a3" alt="ChromaSift Image">
+</p>
+
 1) **Data Collection and Pre-processing**: Abstracts from scientific journals like PubMed are scraped to create a corpus of scientific literature. The abstracts are pre-processed using techniques such as stopword removal and lemmatization to clean and standardize the text.
 
 2) **Neo4j Graph Database**: The pre-processed abstracts are stored in a Neo4j database, enabling efficient querying and relationships analysis.
@@ -28,6 +32,6 @@ While existing platforms like PubMed, Google Scholar, Scopus, Web of Science, an
 
 ChromaSift provides query flexibility and comprehensive results. It goes beyond basic keyword matching by detecting and retrieving documents that are indirectly related to the entered keyword. 
 
-<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="220" width="210" />
+<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="500" width="500" />
 
 For example, the query "amino acid" entered above returns 

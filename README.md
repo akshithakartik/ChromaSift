@@ -26,10 +26,11 @@ https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599
 
 ## • Features
 
-While existing platforms like PubMed, Google Scholar, Scopus, Web of Science, and SciFinder offer extensive databases and advanced search capabilities for accessing scientific literature, ChromaSift is specifically geared towards chromatography-related documents, providing a focused and curated search experience for users interested in this field.
+While existing platforms like PubMed, Google Scholar, Scopus, Web of Science, and SciFinder offer extensive databases and advanced search capabilities for accessing scientific literature, ChromaSift is specifically geared towards chromatography-related documents, providing a **focused and curated search experience** for users interested in this field.
 
-ChromaSift provides query flexibility and comprehensive results. It goes beyond basic keyword matching by detecting and retrieving documents that are indirectly related to the entered keyword. 
+ChromaSift provides **query flexibility** and **comprehensive results**. It goes beyond basic keyword matching by detecting and retrieving documents that are **indirectly related** to the entered keyword. 
 
-<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="450" width="500" />
+<img src="https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95" align="right" height="350" width="4500" />
 
-For example, when the query "amino acid" is entered, a document with 22% similarity is returned. Interestingly, this document does not contain the phrase "amino acid" anywhere in its text. However, it is determined as relevant because it primarily discusses High-Performance Liquid Chromatography (HPLC), which is the main method for amino acid analysis. This highlights ChromaSift's ability to identify documents that are indirectly related to the query by considering broader context and connections within scientific literature.
+For example, when the query "*amino acid*" is entered, a document with 22% similarity is returned. Interestingly, this document does not contain the phrase "*amino acid*" **anywhere** in its text. However, it is determined as relevant because it primarily discusses High-Performance Liquid Chromatography (HPLC), which is the main method for amino acid analysis. 
+This highlights ChromaSift's ability to identify documents that are indirectly related to the query by considering **broader context** and **connections within scientific literature**.

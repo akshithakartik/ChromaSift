@@ -38,3 +38,10 @@ Interestingly, this document does not contain the phrase "*amino acid*" **anywhe
 However, it is determined as relevant because it primarily discusses High-Performance Liquid Chromatography (HPLC) - the main method for amino acid analysis. 
 
 This highlights ChromaSift's ability to identify documents that are indirectly related to the query by considering **broader context** and **connections within scientific literature**.
+
+## • Installation
+
+Install required dependencies with:
+`pip install -r requirements.txt`
+
+

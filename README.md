@@ -45,6 +45,10 @@ Install required dependencies with:
 
 `pip install -r requirements.txt`
 
-You may chose to use the abtracts provided, or scrape your own data.
+You may chose to use the abstracts provided, or scrape your own data.
+
+## • Graph Database
+
+Processes and Materials associated with each pre-processed abstract were obtained using Open AI's GPT-3.5 Turbo. These were used as nodes for the Neo4j database, with corresponding relationships with documents. From the scientific abstracts scraped, 7000 nodes and 11,300 relationships were formed. Here is a subset of the resulting Neo4j database:
 
 

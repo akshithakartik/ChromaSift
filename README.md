@@ -1,4 +1,4 @@
-<h1 align="center">ChromaSift 🧪</h1>
+<h1 align="center">🧪 ChromaSift 🧪</h1>
 
 https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599-8e31-f0a3ad5bb1a0
 

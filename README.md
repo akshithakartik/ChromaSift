@@ -3,7 +3,7 @@
 
 ## • Description
 
-ChromaSift is a **specialized search engine** designed to filter and rank **chromatography-related documents** from a large corpus of scientific abstracts. Users can **query specific keywords** to retrieve documents, which are then ranked by relevance and assigned a **similarity score**. Additionally, ChromaSift allows users to access the full content of resulting documents by clicking on their titles, providing direct links to the corresponding scientific journals.
+ChromaSift is a **specialized search engine** designed to filter and rank **chromatography-related documents** from a large corpus of scientific abstracts. Users can **query specific keywords** to retrieve documents, which are then ranked by relevance and assigned a **similarity score**. Additionally, ChromaSift allows users to access the full content of resulting documents by clicking on their titles, providing **direct links** to the corresponding scientific journals.
 
 
 ## • Demonstration
@@ -22,4 +22,11 @@ https://github.com/akshithakartik/ChromaSift/assets/112664522/9e6a2bf4-5eab-4599
 
 4) **Streamlit**: The results are integrated into an interactive interface built with Streamlit, allowing users to input queries and view ranked documents based on their relevance.
 
+## • Features
 
+While existing platforms like PubMed, Google Scholar, Scopus, Web of Science, and SciFinder offer extensive databases and advanced search capabilities for accessing scientific literature, ChromaSift is specifically geared towards chromatography-related documents, providing a focused and curated search experience for users interested in this field.
+
+ChromaSift provides query flexibility and comprehensive results. It goes beyond basic keyword matching by detecting and retrieving documents that are indirectly related to the entered keyword. 
+![image](https://github.com/akshithakartik/ChromaSift/assets/112664522/16085d81-cff0-4059-8cf5-aad58f0d0e95)
+
+For example, the query "amino acid" entered above returns 

@@ -45,4 +45,6 @@ Install required dependencies with:
 
 `pip install -r requirements.txt`
 
+You may chose to use the abtracts provided, or scrape your own data.
+
 

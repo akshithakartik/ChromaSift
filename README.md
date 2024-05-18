@@ -4,8 +4,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="https://github.com/akshithakartik/ChromaSift/tree/main?tab=readme-ov-file#-description">Description</a></li>
-    <li><a href="https://github.com/akshithakartik/ChromaSift/edit/main/README.md#-demonstration">Demonstration</a></li>
+    <li><a href="https://github.com/akshithakartik/ChromaSift#-description">Description</a></li>
+    <li><a href="https://github.com/akshithakartik/ChromaSift#-demonstration">Demonstration</a></li>
     <li><a href="https://github.com/akshithakartik/ChromaSift#-pipeline">Pipeline</a></li>
     <li><a href="https://github.com/akshithakartik/ChromaSift#-features">Features</a></li>
     <li><a href="https://github.com/akshithakartik/ChromaSift#-installation">Installation</a></li>
